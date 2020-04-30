@@ -1,1 +1,1 @@
-# intro-to-data-visualization-Python-live-training
+# Intro to data visualization in Python live training
