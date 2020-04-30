@@ -1,0 +1,1471 @@
+,Age,Attrition,DistanceFromHome,Education,EducationField,EnvironmentSatisfaction,Gender,JobInvolvement,JobSatisfaction,MonthlyIncome,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StandardHours,WorkLifeBalance,YearsAtCompany
+0,41,Churned,1,College,Life Sciences,Good,Female,Great,Excellent,5993,11,Great,Low,80,Low,6
+1,49,Stayed,8,Below College,Life Sciences,Great,Male,Good,Good,5130,23,Excellent,Excellent,80,Great,10
+2,37,Churned,2,College,Other,Excellent,Male,Good,Great,2090,15,Great,Good,80,Great,0
+3,33,Stayed,3,Master's degree,Life Sciences,Excellent,Female,Great,Great,2909,11,Great,Great,80,Great,8
+4,27,Stayed,2,Below College,Medical,Low,Male,Great,Good,3468,12,Great,Excellent,80,Great,2
+5,32,Stayed,2,College,Life Sciences,Excellent,Male,Great,Excellent,3068,13,Great,Great,80,Good,7
+6,59,Stayed,3,Bachelor's degree,Medical,Great,Female,Excellent,Low,2670,20,Excellent,Low,80,Good,1
+7,30,Stayed,24,Below College,Life Sciences,Excellent,Male,Great,Great,2693,22,Excellent,Good,80,Great,1
+8,38,Stayed,23,Bachelor's degree,Life Sciences,Excellent,Male,Good,Great,9526,21,Excellent,Good,80,Great,9
+9,36,Stayed,27,Bachelor's degree,Medical,Great,Male,Great,Great,5237,13,Great,Good,80,Good,7
+10,35,Stayed,16,Bachelor's degree,Medical,Low,Male,Excellent,Good,2426,13,Great,Great,80,Great,5
+11,29,Stayed,15,College,Life Sciences,Excellent,Female,Good,Great,4193,12,Great,Excellent,80,Great,9
+12,31,Stayed,26,Below College,Life Sciences,Low,Male,Great,Great,2911,17,Great,Excellent,80,Good,5
+13,34,Stayed,19,College,Medical,Good,Male,Great,Excellent,2661,11,Great,Great,80,Great,2
+14,28,Churned,24,Bachelor's degree,Life Sciences,Great,Male,Good,Great,2028,14,Great,Good,80,Great,4
+15,29,Stayed,21,Master's degree,Life Sciences,Good,Female,Excellent,Low,9980,11,Great,Great,80,Great,10
+16,32,Stayed,5,College,Life Sciences,Low,Male,Excellent,Good,3298,12,Great,Excellent,80,Good,6
+17,22,Stayed,16,College,Medical,Excellent,Male,Excellent,Excellent,2935,13,Great,Good,80,Good,1
+18,53,Stayed,2,Master's degree,Life Sciences,Low,Female,Good,Excellent,15427,16,Great,Great,80,Great,25
+19,38,Stayed,2,Bachelor's degree,Life Sciences,Excellent,Male,Great,Excellent,3944,11,Great,Great,80,Great,3
+20,24,Stayed,11,College,Other,Low,Female,Excellent,Great,4011,18,Great,Excellent,80,Good,4
+21,36,Churned,9,Master's degree,Life Sciences,Great,Male,Good,Low,3407,23,Excellent,Good,80,Great,5
+22,34,Stayed,7,Master's degree,Life Sciences,Low,Female,Great,Good,11994,11,Great,Great,80,Great,12
+23,21,Stayed,15,College,Life Sciences,Great,Male,Great,Excellent,1232,14,Great,Excellent,80,Great,0
+24,34,Churned,6,Below College,Medical,Good,Male,Great,Low,2960,11,Great,Great,80,Great,4
+25,53,Stayed,5,Bachelor's degree,Other,Great,Female,Great,Great,19094,11,Great,Excellent,80,Good,14
+26,32,Churned,16,Below College,Life Sciences,Good,Female,Low,Low,3919,22,Excellent,Good,80,Great,10
+27,42,Stayed,8,Master's degree,Marketing,Great,Male,Great,Good,6825,11,Great,Excellent,80,Great,9
+28,44,Stayed,7,Master's degree,Medical,Low,Female,Good,Excellent,10248,14,Great,Excellent,80,Great,22
+29,46,Stayed,2,Master's degree,Marketing,Good,Female,Great,Low,18947,12,Great,Excellent,80,Good,2
+30,33,Stayed,2,Bachelor's degree,Medical,Great,Male,Great,Excellent,2496,11,Great,Excellent,80,Great,1
+31,44,Stayed,10,Master's degree,Other,Excellent,Male,Great,Excellent,6465,13,Great,Excellent,80,Excellent,4
+32,30,Stayed,9,College,Medical,Excellent,Male,Good,Great,2206,13,Great,Low,80,Great,10
+33,39,Churned,5,Bachelor's degree,Technical Degree,Excellent,Male,Great,Excellent,2086,14,Great,Great,80,Excellent,1
+34,24,Churned,1,Bachelor's degree,Medical,Good,Male,Great,Excellent,2293,16,Great,Low,80,Good,2
+35,43,Stayed,2,College,Medical,Excellent,Female,Excellent,Great,2645,12,Great,Excellent,80,Good,5
+36,50,Churned,3,College,Marketing,Low,Male,Good,Great,2683,14,Great,Great,80,Great,3
+37,35,Stayed,2,Bachelor's degree,Marketing,Excellent,Female,Great,Excellent,2014,13,Great,Low,80,Great,2
+38,36,Stayed,5,Master's degree,Life Sciences,Good,Female,Good,Low,3419,14,Great,Excellent,80,Excellent,1
+39,33,Stayed,1,Bachelor's degree,Life Sciences,Great,Female,Excellent,Low,5376,19,Great,Low,80,Great,5
+40,35,Stayed,4,College,Other,Great,Male,Great,Excellent,1951,12,Great,Great,80,Great,1
+41,27,Stayed,2,Master's degree,Life Sciences,Excellent,Female,Great,Low,2341,13,Great,Excellent,80,Great,1
+42,26,Churned,25,Bachelor's degree,Life Sciences,Low,Male,Low,Great,2293,12,Great,Great,80,Good,1
+43,27,Stayed,8,Bachelor's degree,Life Sciences,Excellent,Male,Great,Great,8726,15,Great,Excellent,80,Great,9
+44,30,Stayed,1,College,Medical,Great,Female,Great,Excellent,4011,23,Excellent,Excellent,80,Great,12
+45,41,Churned,12,Bachelor's degree,Technical Degree,Good,Female,Great,Great,19545,12,Great,Excellent,80,Great,22
+46,34,Stayed,23,Master's degree,Marketing,Good,Male,Great,Great,4568,20,Excellent,Great,80,Great,9
+47,37,Stayed,19,College,Life Sciences,Good,Male,Great,Good,3022,21,Excellent,Low,80,Great,1
+48,46,Stayed,5,Master's degree,Marketing,Low,Male,Great,Excellent,5772,21,Excellent,Great,80,Great,9
+49,35,Stayed,8,Below College,Life Sciences,Excellent,Male,Excellent,Excellent,2269,19,Great,Excellent,80,Great,1
+50,48,Churned,1,College,Life Sciences,Low,Male,Good,Great,5381,13,Great,Excellent,80,Great,1
+51,28,Churned,5,Master's degree,Technical Degree,Great,Male,Great,Great,3441,13,Great,Great,80,Good,2
+52,44,Stayed,1,PhD,Marketing,Good,Female,Great,Low,5454,21,Excellent,Great,80,Good,4
+53,35,Stayed,11,College,Medical,Great,Male,Good,Low,9884,13,Great,Great,80,Great,4
+54,26,Stayed,23,Bachelor's degree,Marketing,Great,Female,Good,Excellent,4157,19,Great,Great,80,Good,2
+55,33,Stayed,1,College,Life Sciences,Low,Female,Great,Excellent,13458,12,Great,Great,80,Great,15
+56,35,Stayed,18,PhD,Life Sciences,Good,Male,Great,Low,9069,22,Excellent,Excellent,80,Good,9
+57,35,Stayed,23,Master's degree,Medical,Great,Female,Great,Low,4014,15,Great,Great,80,Great,2
+58,31,Stayed,7,Master's degree,Life Sciences,Excellent,Male,Great,Excellent,5915,22,Excellent,Excellent,80,Good,7
+59,37,Stayed,1,Master's degree,Life Sciences,Low,Male,Good,Great,5993,18,Great,Great,80,Excellent,7
+60,32,Stayed,1,Bachelor's degree,Medical,Low,Male,Great,Excellent,6162,22,Excellent,Good,80,Great,9
+61,38,Stayed,29,PhD,Life Sciences,Excellent,Female,Great,Excellent,2406,11,Great,Excellent,80,Great,10
+62,50,Stayed,7,College,Medical,Good,Female,Good,Great,18740,12,Great,Excellent,80,Good,27
+63,59,Stayed,25,Bachelor's degree,Life Sciences,Low,Female,Great,Low,7637,11,Great,Excellent,80,Good,21
+64,36,Stayed,8,Bachelor's degree,Technical Degree,Great,Female,Great,Great,10096,13,Great,Good,80,Great,17
+65,55,Stayed,8,Bachelor's degree,Medical,Excellent,Female,Great,Great,14756,14,Great,Great,80,Great,5
+66,36,Stayed,11,Bachelor's degree,Life Sciences,Good,Male,Good,Good,6499,13,Great,Great,80,Great,6
+67,45,Stayed,7,Bachelor's degree,Life Sciences,Good,Male,Great,Low,9724,17,Great,Great,80,Great,1
+68,35,Stayed,1,Bachelor's degree,Medical,Good,Male,Great,Low,2194,13,Great,Excellent,80,Good,3
+69,36,Churned,9,Bachelor's degree,Medical,Excellent,Male,Good,Great,3388,17,Great,Low,80,Good,1
+70,59,Stayed,1,Below College,Life Sciences,Low,Female,Good,Great,5473,11,Great,Excellent,80,Good,4
+71,29,Stayed,2,Bachelor's degree,Life Sciences,Great,Male,Great,Good,2703,23,Excellent,Excellent,80,Great,5
+72,31,Stayed,1,Master's degree,Medical,Great,Male,Great,Good,2501,17,Great,Good,80,Great,1
+73,32,Stayed,1,Bachelor's degree,Life Sciences,Good,Male,Great,Good,6220,17,Great,Good,80,Great,10
+74,36,Stayed,6,Bachelor's degree,Life Sciences,Good,Female,Excellent,Excellent,3038,12,Great,Good,80,Great,1
+75,31,Stayed,8,Master's degree,Life Sciences,Great,Female,Great,Excellent,4424,23,Excellent,Excellent,80,Great,11
+76,35,Stayed,1,Master's degree,Marketing,Great,Male,Good,Low,4312,14,Great,Good,80,Great,15
+77,45,Stayed,6,Master's degree,Other,Excellent,Male,Great,Low,13245,14,Great,Good,80,Excellent,0
+78,37,Stayed,7,Master's degree,Medical,Low,Male,Great,Great,13664,13,Great,Low,80,Excellent,5
+79,46,Stayed,5,College,Medical,Good,Male,Great,Good,5021,22,Excellent,Excellent,80,Great,4
+80,30,Stayed,1,Below College,Life Sciences,Excellent,Male,Good,Excellent,5126,12,Great,Great,80,Good,10
+81,35,Stayed,1,Bachelor's degree,Medical,Good,Male,Good,Great,2859,18,Great,Low,80,Great,6
+82,55,Stayed,1,College,Life Sciences,Low,Male,Great,Excellent,10239,14,Great,Excellent,80,Great,1
+83,38,Stayed,6,Bachelor's degree,Medical,Good,Female,Low,Excellent,5329,12,Great,Excellent,80,Great,13
+84,34,Stayed,1,College,Medical,Low,Male,Great,Good,4325,15,Great,Great,80,Great,5
+85,56,Stayed,7,Bachelor's degree,Life Sciences,Excellent,Male,Low,Excellent,7260,11,Great,Low,80,Good,6
+86,23,Stayed,2,Below College,Technical Degree,Great,Male,Great,Low,2322,13,Great,Great,80,Great,0
+87,51,Stayed,9,Master's degree,Life Sciences,Excellent,Male,Great,Excellent,2075,23,Excellent,Good,80,Great,4
+88,30,Stayed,2,Bachelor's degree,Life Sciences,Great,Male,Good,Excellent,4152,19,Great,Low,80,Great,11
+89,46,Churned,9,College,Medical,Great,Male,Good,Excellent,9619,16,Great,Excellent,80,Great,9
+90,40,Stayed,1,Master's degree,Life Sciences,Great,Male,Good,Good,13503,22,Excellent,Excellent,80,Good,22
+91,51,Stayed,21,Master's degree,Marketing,Great,Male,Great,Excellent,5441,22,Excellent,Excellent,80,Low,10
+92,30,Stayed,4,College,Medical,Great,Female,Good,Good,5209,12,Great,Good,80,Good,11
+93,46,Stayed,1,Bachelor's degree,Medical,Great,Male,Good,Low,10673,13,Great,Great,80,Good,10
+94,32,Stayed,6,Master's degree,Medical,Good,Male,Great,Great,5010,16,Great,Low,80,Great,11
+95,54,Stayed,2,Master's degree,Technical Degree,Low,Female,Great,Great,13549,12,Great,Low,80,Low,4
+96,24,Stayed,3,College,Other,Low,Female,Great,Great,4999,21,Excellent,Low,80,Good,3
+97,28,Stayed,4,Bachelor's degree,Medical,Good,Male,Great,Great,4221,15,Great,Good,80,Excellent,5
+98,58,Stayed,10,Master's degree,Medical,Excellent,Male,Great,Great,13872,13,Great,Great,80,Good,37
+99,44,Stayed,23,Bachelor's degree,Medical,Good,Male,Great,Good,2042,12,Great,Great,80,Excellent,3
+100,37,Churned,6,Master's degree,Human Resources,Great,Male,Great,Low,2073,22,Excellent,Excellent,80,Great,3
+101,32,Stayed,1,Below College,Life Sciences,Excellent,Male,Great,Low,2956,13,Great,Excellent,80,Great,1
+102,20,Churned,6,Bachelor's degree,Life Sciences,Excellent,Female,Good,Excellent,2926,18,Great,Good,80,Great,1
+103,34,Stayed,6,Master's degree,Other,Low,Female,Great,Great,4809,14,Great,Great,80,Great,16
+104,37,Stayed,2,College,Life Sciences,Great,Male,Good,Excellent,5163,14,Great,Excellent,80,Excellent,1
+105,59,Stayed,2,Master's degree,Human Resources,Great,Female,Good,Excellent,18844,21,Excellent,Excellent,80,Great,3
+106,50,Stayed,1,Bachelor's degree,Life Sciences,Low,Female,Great,Good,18172,19,Great,Low,80,Good,8
+107,25,Churned,5,Bachelor's degree,Marketing,Great,Male,Good,Great,5744,11,Great,Excellent,80,Great,6
+108,25,Stayed,7,Below College,Medical,Excellent,Male,Good,Excellent,2889,11,Great,Great,80,Great,2
+109,22,Stayed,15,Bachelor's degree,Medical,Good,Female,Great,Excellent,2871,15,Great,Great,80,Great,0
+110,51,Stayed,1,Master's degree,Medical,Low,Female,Good,Low,7484,20,Excellent,Great,80,Good,13
+111,34,Churned,7,Bachelor's degree,Life Sciences,Low,Male,Low,Great,6074,24,Excellent,Excellent,80,Great,9
+112,54,Stayed,26,Bachelor's degree,Human Resources,Excellent,Female,Excellent,Excellent,17328,12,Great,Great,80,Great,5
+113,24,Stayed,18,Below College,Life Sciences,Good,Male,Great,Great,2774,12,Great,Great,80,Great,5
+114,34,Stayed,6,Master's degree,Life Sciences,Great,Female,Good,Good,4505,15,Great,Great,80,Great,1
+115,37,Stayed,3,Bachelor's degree,Life Sciences,Great,Male,Great,Excellent,7428,12,Great,Low,80,Great,5
+116,34,Stayed,5,Bachelor's degree,Medical,Great,Female,Good,Low,11631,12,Great,Excellent,80,Great,11
+117,36,Stayed,11,College,Technical Degree,Good,Female,Great,Excellent,9738,14,Great,Great,80,Great,9
+118,36,Stayed,3,College,Life Sciences,Low,Female,Great,Excellent,2835,22,Excellent,Low,80,Great,1
+119,43,Stayed,26,College,Life Sciences,Great,Male,Great,Excellent,16959,12,Great,Excellent,80,Excellent,25
+120,30,Stayed,23,Bachelor's degree,Life Sciences,Low,Male,Low,Great,2613,25,Excellent,Great,80,Good,10
+121,33,Stayed,22,College,Marketing,Great,Male,Great,Good,6146,13,Great,Low,80,Excellent,7
+122,56,Churned,14,Master's degree,Life Sciences,Good,Female,Great,Good,4963,18,Great,Low,80,Great,5
+123,51,Stayed,6,Bachelor's degree,Life Sciences,Low,Male,Great,Great,19537,13,Great,Great,80,Great,20
+124,31,Churned,6,Master's degree,Life Sciences,Good,Male,Low,Great,6172,18,Great,Good,80,Good,7
+125,26,Stayed,6,Bachelor's degree,Other,Great,Female,Good,Good,2368,19,Great,Great,80,Good,5
+126,58,Churned,23,Master's degree,Medical,Excellent,Female,Great,Excellent,10312,12,Great,Excellent,80,Good,40
+127,19,Churned,22,Below College,Marketing,Excellent,Male,Great,Great,1675,19,Great,Excellent,80,Good,0
+128,22,Stayed,2,Below College,Technical Degree,Great,Male,Great,Excellent,2523,14,Great,Great,80,Great,2
+129,49,Stayed,20,Master's degree,Medical,Great,Female,Great,Low,6567,14,Great,Great,80,Good,15
+130,43,Stayed,28,Bachelor's degree,Medical,Good,Female,Excellent,Great,4739,12,Great,Excellent,80,Great,3
+131,50,Stayed,12,Bachelor's degree,Marketing,Great,Female,Great,Excellent,9208,11,Great,Excellent,80,Great,2
+132,31,Churned,20,Bachelor's degree,Life Sciences,Good,Female,Low,Great,4559,11,Great,Great,80,Great,2
+133,41,Stayed,9,Below College,Life Sciences,Great,Male,Great,Great,8189,13,Great,Great,80,Great,9
+134,26,Stayed,25,Below College,Life Sciences,Great,Female,Great,Great,2942,23,Excellent,Excellent,80,Great,8
+135,36,Stayed,6,College,Medical,Good,Male,Great,Good,4941,20,Excellent,Excellent,80,Great,3
+136,51,Churned,8,Master's degree,Life Sciences,Low,Male,Low,Excellent,10650,15,Great,Excellent,80,Great,4
+137,39,Stayed,4,Master's degree,Life Sciences,Excellent,Female,Good,Great,5902,14,Great,Great,80,Excellent,15
+138,25,Stayed,28,Bachelor's degree,Life Sciences,Low,Male,Good,Great,8639,18,Great,Excellent,80,Great,2
+139,30,Stayed,9,Bachelor's degree,Human Resources,Great,Male,Great,Excellent,6347,19,Great,Excellent,80,Low,11
+140,32,Churned,9,Bachelor's degree,Medical,Low,Female,Great,Low,4200,22,Excellent,Low,80,Excellent,5
+141,45,Stayed,29,Bachelor's degree,Medical,Great,Male,Great,Excellent,3452,13,Great,Good,80,Good,6
+142,38,Stayed,3,PhD,Technical Degree,Excellent,Female,Great,Great,4317,20,Excellent,Good,80,Great,3
+143,30,Stayed,18,Bachelor's degree,Life Sciences,Low,Female,Great,Great,2632,14,Great,Great,80,Good,5
+144,32,Stayed,9,College,Medical,Excellent,Male,Low,Excellent,4668,17,Great,Excellent,80,Excellent,8
+145,30,Stayed,5,Bachelor's degree,Technical Degree,Excellent,Female,Great,Low,3204,14,Great,Excellent,80,Great,3
+146,30,Stayed,2,Below College,Medical,Good,Male,Good,Excellent,2720,13,Great,Excellent,80,Great,5
+147,41,Stayed,10,Bachelor's degree,Life Sciences,Excellent,Male,Good,Low,17181,13,Great,Good,80,Good,7
+148,41,Stayed,9,Master's degree,Life Sciences,Great,Male,Great,Low,2238,21,Excellent,Excellent,80,Great,5
+149,19,Stayed,3,Below College,Medical,Good,Female,Great,Good,1483,14,Great,Excellent,80,Great,1
+150,40,Stayed,26,Bachelor's degree,Medical,Good,Female,Great,Good,5605,11,Great,Low,80,Great,20
+151,35,Stayed,1,PhD,Marketing,Great,Male,Great,Good,7295,13,Great,Low,80,Great,10
+152,53,Stayed,6,College,Marketing,Good,Male,Great,Great,2306,20,Excellent,Excellent,80,Low,7
+153,45,Stayed,9,Bachelor's degree,Life Sciences,Good,Male,Great,Good,2348,18,Great,Great,80,Low,17
+154,32,Stayed,8,Bachelor's degree,Marketing,Good,Female,Great,Excellent,8998,14,Great,Excellent,80,Great,9
+155,29,Stayed,1,Below College,Technical Degree,Excellent,Male,Great,Great,4319,13,Great,Low,80,Great,10
+156,51,Stayed,7,Master's degree,Medical,Good,Male,Good,Great,6132,17,Great,Great,80,Great,1
+157,58,Stayed,9,Bachelor's degree,Medical,Good,Female,Good,Good,3346,20,Excellent,Good,80,Good,1
+158,40,Stayed,4,Master's degree,Marketing,Great,Male,Good,Excellent,10855,11,Great,Low,80,Good,12
+159,34,Stayed,2,Master's degree,Marketing,Great,Female,Great,Great,2231,18,Great,Excellent,80,Great,4
+160,22,Stayed,19,Below College,Medical,Great,Male,Great,Excellent,2323,24,Excellent,Low,80,Great,2
+161,27,Stayed,9,Bachelor's degree,Medical,Excellent,Male,Great,Good,2024,18,Great,Excellent,80,Low,2
+162,28,Stayed,21,Bachelor's degree,Medical,Great,Male,Great,Excellent,2713,11,Great,Great,80,Low,5
+163,57,Stayed,24,College,Life Sciences,Great,Male,Excellent,Excellent,9439,16,Great,Good,80,Low,5
+164,27,Stayed,3,Bachelor's degree,Medical,Great,Male,Good,Great,2566,15,Great,Excellent,80,Good,1
+165,50,Stayed,11,Bachelor's degree,Life Sciences,Great,Female,Great,Good,19926,15,Great,Good,80,Great,5
+166,41,Stayed,14,Bachelor's degree,Life Sciences,Low,Male,Great,Great,2451,12,Great,Low,80,Great,9
+167,30,Stayed,5,Bachelor's degree,Life Sciences,Good,Female,Great,Excellent,9419,12,Great,Great,80,Great,10
+168,38,Stayed,1,Master's degree,Life Sciences,Low,Female,Good,Excellent,8686,22,Excellent,Great,80,Excellent,8
+169,32,Stayed,6,PhD,Life Sciences,Great,Male,Great,Great,3038,20,Excellent,Low,80,Great,5
+170,27,Stayed,17,Bachelor's degree,Technical Degree,Great,Male,Great,Good,3058,16,Great,Excellent,80,Good,5
+171,19,Churned,1,Below College,Technical Degree,Great,Female,Low,Low,2325,21,Excellent,Low,80,Excellent,0
+172,36,Stayed,3,College,Medical,Excellent,Male,Great,Good,2088,12,Great,Great,80,Good,8
+173,30,Stayed,9,Bachelor's degree,Medical,Great,Male,Great,Low,3072,11,Great,Great,80,Great,12
+174,45,Stayed,4,College,Life Sciences,Great,Female,Great,Low,5006,11,Great,Low,80,Excellent,5
+175,56,Stayed,8,Bachelor's degree,Life Sciences,Great,Female,Great,Low,4257,18,Great,Great,80,Great,2
+176,33,Stayed,2,Bachelor's degree,Life Sciences,Great,Male,Great,Excellent,2500,14,Great,Low,80,Excellent,3
+177,19,Churned,2,Bachelor's degree,Life Sciences,Good,Male,Good,Excellent,1102,22,Excellent,Great,80,Good,1
+178,46,Stayed,1,College,Marketing,Good,Female,Great,Low,10453,25,Excellent,Great,80,Great,24
+179,38,Stayed,9,College,Life Sciences,Great,Female,Great,Excellent,2288,12,Great,Great,80,Great,2
+180,31,Stayed,12,Below College,Medical,Great,Female,Great,Excellent,3929,23,Excellent,Great,80,Great,4
+181,34,Stayed,27,College,Medical,Excellent,Female,Great,Good,2311,15,Great,Excellent,80,Great,3
+182,41,Churned,20,College,Marketing,Good,Female,Great,Good,3140,22,Excellent,Excellent,80,Good,4
+183,50,Stayed,1,Bachelor's degree,Medical,Great,Male,Good,Great,3690,15,Great,Excellent,80,Good,3
+184,53,Stayed,13,College,Medical,Excellent,Female,Excellent,Low,4450,11,Great,Great,80,Great,4
+185,33,Stayed,14,Bachelor's degree,Medical,Excellent,Female,Great,Good,2756,13,Great,Excellent,80,Great,8
+186,40,Stayed,4,Below College,Medical,Excellent,Female,Great,Great,19033,14,Great,Good,80,Great,20
+187,55,Stayed,14,Master's degree,Medical,Great,Male,Excellent,Good,18722,11,Great,Excellent,80,Great,24
+188,34,Stayed,2,Below College,Life Sciences,Excellent,Male,Good,Great,9547,17,Great,Great,80,Good,10
+189,51,Stayed,3,Bachelor's degree,Medical,Excellent,Female,Great,Good,13734,18,Great,Great,80,Great,7
+190,52,Stayed,1,Master's degree,Life Sciences,Great,Male,Good,Great,19999,14,Great,Low,80,Great,33
+191,27,Stayed,9,Bachelor's degree,Medical,Excellent,Female,Great,Good,2279,16,Great,Excellent,80,Good,7
+192,35,Churned,23,College,Life Sciences,Good,Male,Good,Great,5916,13,Great,Low,80,Great,1
+193,43,Stayed,7,Bachelor's degree,Medical,Excellent,Male,Excellent,Excellent,2089,14,Great,Excellent,80,Excellent,5
+194,45,Stayed,2,College,Medical,Low,Male,Good,Excellent,16792,23,Excellent,Excellent,80,Great,20
+195,37,Stayed,21,Bachelor's degree,Life Sciences,Good,Male,Excellent,Low,3564,12,Great,Low,80,Good,8
+196,35,Stayed,2,Bachelor's degree,Medical,Good,Female,Great,Good,4425,11,Great,Excellent,80,Great,6
+197,42,Stayed,21,College,Medical,Great,Female,Great,Great,5265,16,Great,Good,80,Great,5
+198,38,Stayed,2,Master's degree,Life Sciences,Excellent,Male,Great,Great,6553,14,Great,Good,80,Great,1
+199,38,Stayed,29,Bachelor's degree,Technical Degree,Excellent,Male,Great,Excellent,6261,18,Great,Low,80,Low,7
+200,27,Stayed,1,Below College,Technical Degree,Great,Male,Good,Low,4298,19,Great,Great,80,Great,2
+201,49,Stayed,18,Master's degree,Life Sciences,Excellent,Male,Great,Excellent,6804,15,Great,Low,80,Great,7
+202,34,Stayed,10,Master's degree,Medical,Excellent,Male,Great,Great,3815,17,Great,Excellent,80,Excellent,5
+203,40,Stayed,19,College,Medical,Great,Male,Great,Excellent,2741,15,Great,Great,80,Excellent,7
+204,38,Churned,29,Below College,Medical,Good,Male,Great,Low,6673,19,Great,Good,80,Great,1
+205,29,Churned,27,Bachelor's degree,Marketing,Good,Female,Great,Excellent,7639,22,Excellent,Excellent,80,Good,10
+206,22,Stayed,5,Bachelor's degree,Life Sciences,Excellent,Male,Excellent,Good,2328,16,Great,Low,80,Good,4
+207,36,Stayed,18,Below College,Medical,Good,Female,Great,Excellent,2153,13,Great,Low,80,Great,8
+208,40,Stayed,9,PhD,Life Sciences,Excellent,Male,Good,Excellent,4876,14,Great,Excellent,80,Low,3
+209,46,Stayed,1,Master's degree,Medical,Excellent,Male,Great,Low,9396,16,Great,Great,80,Great,4
+210,32,Churned,4,Master's degree,Medical,Excellent,Male,Low,Excellent,10400,11,Great,Great,80,Good,14
+211,30,Stayed,1,Below College,Life Sciences,Great,Male,Good,Great,8474,22,Excellent,Great,80,Great,11
+212,27,Stayed,20,Bachelor's degree,Life Sciences,Excellent,Female,Great,Great,9981,14,Great,Excellent,80,Great,7
+213,51,Stayed,8,Master's degree,Life Sciences,Good,Male,Good,Good,12490,16,Great,Excellent,80,Low,10
+214,30,Churned,3,Bachelor's degree,Technical Degree,Excellent,Female,Great,Low,2657,11,Great,Great,80,Great,5
+215,41,Stayed,6,Bachelor's degree,Life Sciences,Excellent,Female,Great,Excellent,13591,18,Great,Great,80,Great,1
+216,30,Churned,26,Master's degree,Marketing,Great,Female,Good,Low,6696,15,Great,Great,80,Good,6
+217,29,Churned,1,Bachelor's degree,Technical Degree,Great,Male,Great,Great,2058,14,Great,Excellent,80,Good,6
+218,45,Stayed,6,Bachelor's degree,Medical,Excellent,Female,Good,Excellent,8865,12,Great,Excellent,80,Great,19
+219,54,Stayed,3,Bachelor's degree,Marketing,Excellent,Female,Great,Low,5940,14,Great,Excellent,80,Great,6
+220,36,Stayed,5,College,Life Sciences,Excellent,Male,Great,Good,5914,16,Great,Excellent,80,Excellent,13
+221,33,Stayed,4,Master's degree,Medical,Great,Female,Good,Good,2622,21,Excellent,Excellent,80,Great,3
+222,37,Stayed,11,Bachelor's degree,Other,Good,Male,Great,Excellent,12185,14,Great,Great,80,Great,10
+223,38,Stayed,3,Bachelor's degree,Life Sciences,Low,Male,Great,Great,10609,12,Great,Great,80,Good,16
+224,31,Stayed,1,Master's degree,Medical,Great,Male,Low,Great,4345,12,Great,Excellent,80,Great,5
+225,59,Stayed,3,Bachelor's degree,Life Sciences,Great,Male,Good,Excellent,2177,17,Great,Low,80,Great,1
+226,37,Stayed,4,Master's degree,Marketing,Low,Male,Great,Excellent,2793,17,Great,Great,80,Great,9
+227,29,Stayed,1,Below College,Medical,Good,Female,Great,Excellent,7918,14,Great,Excellent,80,Great,11
+228,35,Stayed,1,Bachelor's degree,Marketing,Great,Female,Great,Great,8789,14,Great,Low,80,Excellent,10
+229,29,Churned,18,Below College,Medical,Great,Male,Good,Excellent,2389,13,Great,Great,80,Good,4
+230,52,Stayed,2,Bachelor's degree,Life Sciences,Great,Female,Good,Excellent,3212,15,Great,Good,80,Good,2
+231,42,Stayed,4,College,Technical Degree,Great,Male,Great,Excellent,19232,11,Great,Excellent,80,Great,22
+232,59,Stayed,6,College,Medical,Good,Male,Great,Great,2267,17,Great,Excellent,80,Good,2
+233,50,Stayed,1,Master's degree,Medical,Excellent,Female,Great,Excellent,19517,11,Great,Great,80,Good,7
+234,33,Churned,14,Bachelor's degree,Medical,Great,Male,Great,Excellent,2436,13,Great,Great,80,Low,5
+235,43,Stayed,16,Bachelor's degree,Marketing,Excellent,Female,Great,Excellent,16064,22,Excellent,Great,80,Great,17
+236,33,Churned,2,College,Life Sciences,Low,Female,Great,Low,2707,20,Excellent,Low,80,Excellent,9
+237,52,Stayed,2,Master's degree,Life Sciences,Low,Male,Good,Great,19068,18,Great,Excellent,80,Excellent,33
+238,32,Stayed,4,College,Life Sciences,Great,Female,Great,Good,3931,11,Great,Low,80,Great,4
+239,32,Churned,1,Bachelor's degree,Life Sciences,Excellent,Male,Good,Great,3730,14,Great,Excellent,80,Low,3
+240,39,Stayed,1,Master's degree,Medical,Great,Female,Great,Great,2232,14,Great,Great,80,Great,3
+241,32,Stayed,26,Master's degree,Marketing,Great,Male,Great,Excellent,4465,18,Great,Low,80,Great,3
+242,41,Stayed,19,College,Life Sciences,Great,Male,Great,Low,3072,16,Great,Low,80,Good,1
+243,40,Stayed,24,College,Technical Degree,Low,Male,Great,Excellent,3319,17,Great,Low,80,Great,9
+244,45,Stayed,1,Bachelor's degree,Other,Great,Male,Excellent,Excellent,19202,11,Great,Great,80,Great,24
+245,31,Stayed,3,Master's degree,Medical,Good,Male,Great,Great,13675,12,Great,Low,80,Great,2
+246,33,Stayed,5,Master's degree,Life Sciences,Great,Female,Good,Excellent,2911,13,Great,Great,80,Good,2
+247,34,Stayed,2,Master's degree,Life Sciences,Excellent,Male,Good,Low,5957,13,Great,Good,80,Great,11
+248,37,Stayed,1,College,Medical,Great,Female,Good,Low,3920,14,Great,Low,80,Good,3
+249,45,Stayed,7,Master's degree,Life Sciences,Low,Male,Excellent,Great,6434,17,Great,Excellent,80,Great,3
+250,37,Churned,10,Bachelor's degree,Medical,Low,Male,Great,Great,10048,11,Great,Good,80,Great,1
+251,39,Stayed,2,Master's degree,Technical Degree,Great,Female,Great,Great,10938,25,Excellent,Excellent,80,Great,19
+252,29,Stayed,15,Bachelor's degree,Life Sciences,Great,Male,Great,Excellent,2340,19,Great,Low,80,Great,6
+253,42,Stayed,17,College,Life Sciences,Excellent,Female,Excellent,Low,6545,13,Great,Great,80,Great,3
+254,29,Stayed,20,College,Marketing,Excellent,Male,Great,Excellent,6931,14,Great,Excellent,80,Great,3
+255,25,Stayed,1,Bachelor's degree,Life Sciences,Low,Female,Great,Great,4898,12,Great,Excellent,80,Great,4
+256,42,Stayed,2,Bachelor's degree,Medical,Excellent,Female,Good,Low,2593,11,Great,Great,80,Great,9
+257,40,Stayed,2,College,Medical,Low,Male,Great,Great,19436,19,Great,Excellent,80,Great,21
+258,51,Stayed,1,Bachelor's degree,Life Sciences,Great,Male,Great,Excellent,2723,11,Great,Good,80,Good,1
+259,31,Churned,29,College,Medical,Great,Male,Good,Good,3479,11,Great,Good,80,Excellent,5
+260,32,Stayed,7,Bachelor's degree,Life Sciences,Good,Male,Excellent,Good,2794,20,Excellent,Great,80,Low,5
+261,38,Stayed,2,College,Life Sciences,Excellent,Male,Good,Excellent,5249,18,Great,Excellent,80,Great,8
+262,32,Stayed,2,Below College,Technical Degree,Excellent,Male,Good,Low,2176,13,Great,Excellent,80,Great,6
+263,46,Stayed,2,Bachelor's degree,Technical Degree,Great,Female,Low,Good,16872,12,Great,Good,80,Good,7
+264,28,Churned,2,Master's degree,Life Sciences,Low,Male,Great,Great,3485,11,Great,Great,80,Low,0
+265,29,Stayed,2,Bachelor's degree,Medical,Low,Male,Good,Good,6644,19,Great,Good,80,Great,0
+266,31,Stayed,23,Bachelor's degree,Medical,Good,Male,Good,Excellent,5582,21,Excellent,Good,80,Great,9
+267,25,Stayed,5,College,Life Sciences,Good,Male,Excellent,Low,4000,12,Great,Excellent,80,Great,6
+268,45,Stayed,20,College,Medical,Great,Male,Great,Excellent,13496,14,Great,Good,80,Great,20
+269,36,Stayed,6,Bachelor's degree,Life Sciences,Excellent,Male,Great,Excellent,3210,11,Great,Great,80,Great,15
+270,55,Stayed,1,Bachelor's degree,Medical,Excellent,Male,Great,Low,19045,14,Great,Great,80,Great,36
+271,47,Churned,29,Master's degree,Life Sciences,Low,Male,Great,Good,11849,12,Great,Excellent,80,Good,10
+272,28,Stayed,9,Bachelor's degree,Medical,Excellent,Male,Great,Excellent,2070,23,Excellent,Excellent,80,Good,5
+273,37,Stayed,6,Master's degree,Medical,Great,Male,Great,Excellent,6502,14,Great,Good,80,Excellent,5
+274,21,Stayed,3,College,Medical,Excellent,Male,Good,Great,3230,17,Great,Low,80,Excellent,3
+275,37,Stayed,1,Master's degree,Medical,Low,Female,Great,Excellent,13603,18,Great,Low,80,Great,5
+276,35,Stayed,22,Bachelor's degree,Life Sciences,Good,Female,Excellent,Good,11996,18,Great,Good,80,Good,7
+277,38,Stayed,7,College,Medical,Low,Female,Excellent,Low,5605,24,Excellent,Great,80,Great,8
+278,26,Stayed,1,Bachelor's degree,Life Sciences,Great,Female,Great,Good,6397,20,Excellent,Low,80,Low,6
+279,50,Stayed,4,Below College,Life Sciences,Low,Male,Great,Good,19144,14,Great,Low,80,Good,10
+280,53,Stayed,3,Master's degree,Medical,Great,Male,Great,Great,17584,16,Great,Excellent,80,Good,5
+281,42,Stayed,1,Below College,Life Sciences,Good,Male,Great,Great,4907,25,Excellent,Great,80,Great,20
+282,29,Stayed,2,College,Life Sciences,Good,Male,Great,Excellent,4554,18,Great,Low,80,Good,10
+283,55,Stayed,20,College,Technical Degree,Good,Male,Great,Excellent,5415,19,Great,Excellent,80,Great,10
+284,26,Stayed,11,College,Medical,Low,Male,Great,Low,4741,13,Great,Great,80,Great,5
+285,37,Stayed,1,Bachelor's degree,Life Sciences,Excellent,Female,Great,Excellent,2115,12,Great,Good,80,Great,17
+286,44,Churned,24,Bachelor's degree,Life Sciences,Excellent,Male,Great,Great,3161,22,Excellent,Excellent,80,Low,1
+287,38,Stayed,23,Master's degree,Life Sciences,Excellent,Male,Great,Excellent,5745,14,Great,Good,80,Great,2
+288,26,Churned,16,Master's degree,Medical,Low,Male,Great,Good,2373,13,Great,Excellent,80,Great,3
+289,28,Stayed,8,College,Life Sciences,Excellent,Female,Great,Excellent,3310,21,Excellent,Excellent,80,Great,5
+290,49,Stayed,10,Master's degree,Life Sciences,Great,Female,Great,Low,18665,11,Great,Excellent,80,Great,3
+291,36,Stayed,3,Bachelor's degree,Technical Degree,Great,Male,Great,Good,4485,12,Great,Excellent,80,Great,8
+292,31,Stayed,5,Bachelor's degree,Marketing,Excellent,Female,Great,Good,2789,11,Great,Great,80,Good,2
+293,26,Churned,4,Master's degree,Marketing,Excellent,Male,Good,Excellent,5828,12,Great,Good,80,Great,8
+294,37,Stayed,9,Bachelor's degree,Medical,Good,Male,Great,Excellent,2326,12,Great,Great,80,Good,4
+295,42,Stayed,26,Bachelor's degree,Marketing,Great,Female,Great,Good,13525,14,Great,Excellent,80,Excellent,20
+296,18,Churned,3,Bachelor's degree,Life Sciences,Great,Male,Great,Great,1420,13,Great,Great,80,Great,0
+297,35,Stayed,16,Bachelor's degree,Marketing,Great,Male,Great,Good,8020,15,Great,Great,80,Good,11
+298,36,Stayed,18,Master's degree,Life Sciences,Great,Male,Excellent,Excellent,3688,18,Great,Excellent,80,Great,1
+299,51,Stayed,2,Bachelor's degree,Medical,Excellent,Male,Low,Good,5482,18,Great,Excellent,80,Great,4
+300,41,Stayed,2,Master's degree,Life Sciences,Excellent,Male,Great,Good,16015,19,Great,Good,80,Great,22
+301,18,Stayed,10,Bachelor's degree,Medical,Excellent,Female,Good,Great,1200,12,Great,Low,80,Great,0
+302,28,Stayed,16,College,Medical,Good,Male,Excellent,Low,5661,19,Great,Great,80,Great,8
+303,31,Stayed,7,Bachelor's degree,Technical Degree,Good,Male,Excellent,Excellent,6929,11,Great,Good,80,Good,8
+304,39,Stayed,1,Bachelor's degree,Medical,Great,Male,Excellent,Excellent,9613,17,Great,Low,80,Good,18
+305,36,Stayed,24,Master's degree,Life Sciences,Good,Female,Great,Good,5674,15,Great,Great,80,Great,9
+306,32,Stayed,7,Bachelor's degree,Life Sciences,Excellent,Male,Good,Great,5484,14,Great,Great,80,Good,13
+307,38,Stayed,25,College,Life Sciences,Low,Female,Good,Good,12061,17,Great,Great,80,Great,10
+308,58,Stayed,1,Master's degree,Life Sciences,Excellent,Male,Low,Great,5660,13,Great,Excellent,80,Great,5
+309,31,Stayed,5,Master's degree,Technical Degree,Great,Male,Great,Excellent,4821,12,Great,Great,80,Great,5
+310,31,Stayed,2,Bachelor's degree,Human Resources,Low,Male,Good,Low,6410,12,Great,Excellent,80,Great,2
+311,45,Stayed,7,Bachelor's degree,Life Sciences,Low,Male,Great,Low,5210,18,Great,Low,80,Great,24
+312,31,Stayed,2,Master's degree,Life Sciences,Great,Male,Great,Excellent,2695,18,Great,Good,80,Low,2
+313,33,Stayed,5,Master's degree,Life Sciences,Excellent,Female,Great,Good,11878,11,Great,Good,80,Great,10
+314,39,Stayed,10,Below College,Medical,Great,Male,Great,Low,17068,14,Great,Excellent,80,Great,21
+315,43,Stayed,10,Master's degree,Life Sciences,Great,Female,Great,Excellent,2455,19,Great,Low,80,Great,8
+316,49,Stayed,1,College,Technical Degree,Great,Female,Good,Great,13964,12,Great,Excellent,80,Great,7
+317,52,Churned,8,Master's degree,Medical,Great,Male,Good,Good,4941,15,Great,Low,80,Good,8
+318,27,Stayed,5,Bachelor's degree,Life Sciences,Great,Female,Great,Good,2478,12,Great,Good,80,Good,4
+319,32,Stayed,8,College,Technical Degree,Great,Female,Good,Good,5228,11,Great,Excellent,80,Great,13
+320,27,Stayed,2,Bachelor's degree,Life Sciences,Excellent,Male,Great,Great,4478,11,Great,Low,80,Great,5
+321,31,Stayed,7,Bachelor's degree,Marketing,Excellent,Male,Great,Excellent,7547,12,Great,Excellent,80,Great,7
+322,32,Stayed,2,Master's degree,Medical,Low,Female,Excellent,Excellent,5055,16,Great,Great,80,Good,7
+323,28,Churned,2,Master's degree,Medical,Low,Male,Low,Excellent,3464,13,Great,Excellent,80,Good,3
+324,30,Stayed,28,College,Medical,Excellent,Female,Great,Excellent,5775,13,Great,Excellent,80,Great,10
+325,31,Stayed,7,College,Life Sciences,Great,Female,Good,Great,8943,24,Excellent,Low,80,Great,10
+326,39,Stayed,7,College,Medical,Great,Male,Good,Excellent,19272,15,Great,Low,80,Great,21
+327,39,Churned,3,College,Medical,Excellent,Female,Great,Great,5238,18,Great,Low,80,Good,1
+328,33,Stayed,10,Bachelor's degree,Marketing,Good,Male,Good,Excellent,4682,14,Great,Great,80,Good,7
+329,47,Stayed,5,PhD,Life Sciences,Excellent,Male,Great,Great,18300,11,Great,Good,80,Great,3
+330,43,Stayed,10,Master's degree,Life Sciences,Great,Female,Good,Great,5257,11,Great,Good,80,Excellent,9
+331,27,Stayed,1,Below College,Marketing,Great,Male,Great,Good,6349,13,Great,Excellent,80,Great,5
+332,54,Stayed,20,Master's degree,Life Sciences,Excellent,Female,Great,Great,4869,12,Great,Excellent,80,Good,4
+333,43,Stayed,7,Bachelor's degree,Life Sciences,Great,Female,Great,Low,9985,16,Great,Low,80,Good,1
+334,45,Stayed,8,Master's degree,Other,Excellent,Male,Great,Excellent,3697,14,Great,Low,80,Great,10
+335,40,Stayed,1,College,Medical,Good,Male,Low,Excellent,7457,22,Excellent,Great,80,Good,4
+336,29,Churned,8,Master's degree,Other,Good,Male,Low,Low,2119,11,Great,Excellent,80,Good,7
+337,29,Stayed,9,PhD,Other,Good,Male,Good,Excellent,3983,17,Great,Great,80,Great,3
+338,30,Stayed,5,Bachelor's degree,Marketing,Excellent,Female,Good,Great,6118,13,Great,Great,80,Great,10
+339,27,Stayed,8,Master's degree,Marketing,Good,Female,Great,Good,6214,18,Great,Low,80,Great,8
+340,37,Stayed,5,College,Medical,Excellent,Male,Great,Excellent,6347,16,Great,Great,80,Good,6
+341,38,Stayed,15,College,Life Sciences,Great,Male,Good,Excellent,11510,14,Great,Good,80,Great,11
+342,31,Stayed,7,Master's degree,Medical,Great,Female,Great,Excellent,7143,14,Great,Great,80,Good,11
+343,29,Stayed,10,Below College,Marketing,Excellent,Female,Good,Good,8268,14,Great,Low,80,Great,7
+344,35,Stayed,5,Master's degree,Technical Degree,Great,Male,Great,Good,8095,13,Great,Excellent,80,Great,16
+345,23,Stayed,26,Below College,Life Sciences,Great,Male,Great,Excellent,2904,12,Great,Great,80,Good,4
+346,41,Stayed,6,Bachelor's degree,Medical,Excellent,Male,Good,Good,6032,15,Great,Excellent,80,Great,5
+347,47,Stayed,4,Below College,Medical,Good,Male,Great,Great,2976,19,Great,Low,80,Great,0
+348,42,Stayed,23,PhD,Life Sciences,Low,Female,Great,Excellent,15992,14,Great,Good,80,Great,1
+349,29,Stayed,2,Bachelor's degree,Life Sciences,Excellent,Male,Great,Great,4649,14,Great,Low,80,Good,4
+350,42,Stayed,2,Below College,Technical Degree,Great,Male,Great,Great,2696,11,Great,Great,80,Great,3
+351,32,Stayed,2,Bachelor's degree,Medical,Great,Female,Great,Good,2370,13,Great,Great,80,Great,8
+352,48,Stayed,29,Below College,Medical,Low,Female,Great,Great,12504,21,Excellent,Good,80,Low,0
+353,37,Stayed,6,Bachelor's degree,Medical,Great,Male,Excellent,Low,5974,13,Great,Low,80,Great,7
+354,30,Stayed,25,College,Technical Degree,Excellent,Female,Great,Great,4736,12,Great,Good,80,Excellent,2
+355,26,Stayed,1,Bachelor's degree,Life Sciences,Great,Male,Great,Great,5296,17,Great,Good,80,Great,8
+356,42,Stayed,2,Master's degree,Other,Low,Male,Good,Excellent,6781,23,Excellent,Good,80,Great,1
+357,21,Churned,1,Below College,Technical Degree,Low,Female,Good,Good,2174,11,Great,Great,80,Great,3
+358,36,Stayed,1,PhD,Medical,Excellent,Female,Great,Excellent,6653,15,Great,Good,80,Great,1
+359,36,Stayed,3,Master's degree,Medical,Low,Male,Good,Excellent,9699,11,Great,Low,80,Great,13
+360,57,Stayed,1,Master's degree,Medical,Excellent,Male,Great,Great,6755,11,Great,Great,80,Great,3
+361,40,Stayed,10,Master's degree,Life Sciences,Excellent,Female,Excellent,Great,2213,13,Great,Great,80,Great,7
+362,21,Stayed,9,College,Medical,Low,Male,Great,Excellent,2610,24,Excellent,Great,80,Good,3
+363,33,Churned,5,Bachelor's degree,Marketing,Excellent,Female,Great,Great,2851,13,Great,Good,80,Great,1
+364,37,Stayed,10,Bachelor's degree,Medical,Great,Female,Great,Low,3452,20,Excellent,Good,80,Great,5
+365,46,Stayed,7,Master's degree,Medical,Great,Female,Great,Great,5258,14,Great,Great,80,Excellent,1
+366,41,Churned,4,Bachelor's degree,Marketing,Low,Male,Great,Good,9355,18,Great,Great,80,Great,8
+367,50,Stayed,10,Bachelor's degree,Technical Degree,Excellent,Male,Good,Excellent,10496,15,Great,Excellent,80,Great,4
+368,40,Churned,22,College,Marketing,Great,Male,Good,Great,6380,12,Great,Low,80,Great,6
+369,31,Stayed,9,Master's degree,Life Sciences,Great,Male,Good,Good,2657,16,Great,Excellent,80,Great,2
+370,21,Churned,12,Bachelor's degree,Life Sciences,Great,Female,Excellent,Good,2716,15,Great,Excellent,80,Great,1
+371,29,Stayed,23,Bachelor's degree,Life Sciences,Excellent,Male,Great,Excellent,2201,16,Great,Excellent,80,Great,3
+372,35,Stayed,9,Master's degree,Life Sciences,Great,Male,Good,Good,6540,19,Great,Great,80,Great,1
+373,27,Stayed,1,College,Medical,Excellent,Male,Great,Good,3816,11,Great,Good,80,Great,5
+374,28,Stayed,9,Master's degree,Life Sciences,Good,Male,Great,Excellent,5253,16,Great,Excellent,80,Great,7
+375,49,Stayed,7,Bachelor's degree,Other,Good,Male,Good,Great,10965,24,Excellent,Great,80,Great,5
+376,51,Stayed,14,College,Life Sciences,Great,Female,Great,Excellent,4936,11,Great,Great,80,Good,7
+377,36,Stayed,2,Bachelor's degree,Life Sciences,Excellent,Female,Great,Great,2543,13,Great,Good,80,Great,2
+378,34,Churned,19,Bachelor's degree,Marketing,Low,Male,Excellent,Excellent,5304,13,Great,Good,80,Good,5
+379,55,Stayed,2,Bachelor's degree,Life Sciences,Great,Female,Great,Excellent,16659,13,Great,Great,80,Great,5
+380,24,Stayed,10,Master's degree,Marketing,Excellent,Female,Great,Great,4260,12,Great,Excellent,80,Excellent,5
+381,30,Stayed,2,Below College,Technical Degree,Great,Male,Great,Good,2476,18,Great,Low,80,Great,1
+382,26,Churned,3,Below College,Technical Degree,Great,Male,Great,Low,3102,22,Excellent,Great,80,Great,6
+383,22,Stayed,11,Bachelor's degree,Medical,Low,Female,Great,Good,2244,13,Great,Excellent,80,Great,2
+384,36,Stayed,2,College,Medical,Good,Male,Good,Great,7596,13,Great,Good,80,Great,10
+385,30,Churned,4,Bachelor's degree,Technical Degree,Great,Male,Great,Excellent,2285,23,Excellent,Great,80,Great,1
+386,37,Stayed,14,Bachelor's degree,Life Sciences,Excellent,Female,Great,Low,3034,12,Great,Great,80,Good,18
+387,40,Stayed,2,College,Marketing,Excellent,Female,Great,Good,5715,12,Great,Great,80,Great,5
+388,42,Stayed,1,Master's degree,Life Sciences,Good,Female,Great,Low,2576,16,Great,Good,80,Great,5
+389,37,Stayed,10,Master's degree,Life Sciences,Great,Male,Great,Good,4197,12,Great,Excellent,80,Good,1
+390,43,Stayed,12,Bachelor's degree,Life Sciences,Low,Male,Good,Good,14336,11,Great,Great,80,Great,25
+391,40,Stayed,2,Bachelor's degree,Medical,Good,Female,Good,Great,3448,22,Excellent,Good,80,Great,1
+392,54,Stayed,5,College,Medical,Low,Male,Great,Low,19406,11,Great,Great,80,Good,4
+393,34,Stayed,4,Master's degree,Marketing,Great,Female,Great,Great,6538,15,Great,Low,80,Great,3
+394,31,Stayed,7,College,Medical,Good,Female,Great,Low,4306,12,Great,Good,80,Low,13
+395,43,Stayed,21,Bachelor's degree,Medical,Excellent,Male,Great,Excellent,2258,20,Excellent,Low,80,Great,3
+396,43,Stayed,8,Master's degree,Other,Great,Female,Great,Great,4522,14,Great,Excellent,80,Great,5
+397,25,Stayed,4,College,Life Sciences,Good,Female,Good,Excellent,4487,11,Great,Good,80,Great,5
+398,37,Stayed,25,PhD,Medical,Good,Female,Great,Great,4449,15,Great,Low,80,Great,13
+399,31,Stayed,1,College,Life Sciences,Excellent,Male,Good,Low,2218,12,Great,Great,80,Great,4
+400,39,Stayed,1,Below College,Life Sciences,Good,Male,Great,Great,19197,14,Great,Great,80,Great,21
+401,56,Stayed,6,Bachelor's degree,Life Sciences,Great,Female,Excellent,Low,13212,11,Great,Excellent,80,Good,7
+402,30,Stayed,12,Bachelor's degree,Technical Degree,Good,Female,Great,Great,6577,11,Great,Good,80,Great,5
+403,41,Stayed,1,Bachelor's degree,Marketing,Good,Male,Excellent,Low,8392,16,Great,Great,80,Great,10
+404,28,Stayed,17,College,Medical,Great,Male,Great,Low,4558,12,Great,Excellent,80,Great,10
+405,25,Churned,3,Bachelor's degree,Medical,Low,Male,Great,Low,4031,13,Great,Great,80,Great,2
+406,52,Stayed,3,Bachelor's degree,Medical,Excellent,Male,Good,Great,7969,14,Great,Great,80,Great,5
+407,45,Stayed,10,College,Life Sciences,Low,Male,Great,Excellent,2654,21,Excellent,Excellent,80,Good,2
+408,52,Stayed,4,College,Life Sciences,Excellent,Female,Great,Excellent,16555,13,Great,Excellent,80,Low,5
+409,42,Stayed,29,College,Life Sciences,Low,Female,Great,Great,4556,11,Great,Good,80,Great,5
+410,30,Stayed,2,Bachelor's degree,Life Sciences,Great,Female,Low,Excellent,6091,20,Excellent,Great,80,Great,5
+411,60,Stayed,7,Bachelor's degree,Life Sciences,Low,Female,Great,Low,19566,11,Great,Excellent,80,Low,29
+412,46,Stayed,18,Bachelor's degree,Medical,Great,Female,Great,Great,4810,14,Great,Great,80,Good,10
+413,42,Stayed,28,Master's degree,Technical Degree,Excellent,Female,Good,Excellent,4523,11,Great,Excellent,80,Excellent,6
+414,24,Churned,1,Below College,Technical Degree,Low,Female,Great,Good,3202,16,Great,Good,80,Great,5
+415,34,Churned,6,College,Marketing,Excellent,Female,Low,Great,2351,16,Great,Excellent,80,Good,2
+416,38,Stayed,2,College,Life Sciences,Excellent,Male,Great,Excellent,1702,23,Excellent,Great,80,Great,1
+417,40,Stayed,2,Master's degree,Life Sciences,Great,Female,Great,Great,18041,14,Great,Excellent,80,Great,20
+418,26,Stayed,23,Bachelor's degree,Life Sciences,Low,Female,Great,Excellent,2886,22,Excellent,Good,80,Low,3
+419,30,Stayed,3,Bachelor's degree,Life Sciences,Great,Male,Great,Excellent,2097,15,Great,Great,80,Low,5
+420,29,Stayed,3,Master's degree,Medical,Good,Male,Good,Great,11935,18,Great,Great,80,Great,10
+421,29,Churned,25,PhD,Technical Degree,Great,Female,Good,Good,2546,16,Great,Good,80,Excellent,2
+422,19,Churned,2,College,Technical Degree,Low,Male,Good,Excellent,2564,12,Great,Great,80,Excellent,1
+423,30,Stayed,22,Master's degree,Other,Great,Female,Great,Low,8412,11,Great,Great,80,Great,9
+424,57,Stayed,29,Bachelor's degree,Marketing,Low,Male,Good,Excellent,14118,12,Great,Great,80,Good,1
+425,50,Stayed,29,Master's degree,Life Sciences,Good,Male,Good,Great,17046,15,Great,Good,80,Great,27
+426,30,Stayed,2,Bachelor's degree,Medical,Great,Female,Great,Excellent,2564,14,Great,Great,80,Good,11
+427,60,Stayed,28,Bachelor's degree,Marketing,Great,Female,Good,Low,10266,19,Great,Excellent,80,Excellent,18
+428,47,Stayed,2,College,Medical,Low,Female,Great,Excellent,5070,13,Great,Great,80,Great,5
+429,46,Stayed,2,Bachelor's degree,Life Sciences,Low,Male,Great,Great,17861,13,Great,Great,80,Low,3
+430,35,Stayed,22,Bachelor's degree,Life Sciences,Excellent,Male,Low,Great,4230,15,Great,Great,80,Great,5
+431,54,Stayed,8,Master's degree,Life Sciences,Great,Female,Great,Great,3780,11,Great,Great,80,Great,1
+432,34,Stayed,2,Master's degree,Life Sciences,Excellent,Male,Good,Great,2768,12,Great,Great,80,Great,7
+433,46,Stayed,10,Bachelor's degree,Marketing,Great,Female,Good,Excellent,9071,19,Great,Great,80,Great,3
+434,31,Stayed,9,Below College,Life Sciences,Great,Male,Great,Good,10648,25,Excellent,Excellent,80,Excellent,13
+435,33,Churned,15,Below College,Medical,Good,Male,Great,Great,13610,12,Great,Excellent,80,Excellent,7
+436,33,Churned,10,Below College,Medical,Low,Male,Low,Excellent,3408,13,Great,Low,80,Great,4
+437,30,Stayed,7,Below College,Marketing,Excellent,Male,Great,Good,2983,14,Great,Low,80,Great,3
+438,35,Stayed,16,Bachelor's degree,Life Sciences,Excellent,Male,Great,Great,7632,12,Great,Great,80,Great,8
+439,31,Churned,20,Bachelor's degree,Life Sciences,Low,Male,Great,Great,9824,12,Great,Low,80,Great,1
+440,34,Churned,23,Bachelor's degree,Human Resources,Good,Female,Great,Low,9950,15,Great,Great,80,Great,3
+441,42,Stayed,5,College,Other,Good,Male,Great,Great,2093,17,Great,Excellent,80,Great,2
+442,36,Stayed,10,Master's degree,Medical,Good,Male,Great,Excellent,9980,14,Great,Excellent,80,Good,10
+443,22,Churned,4,Below College,Technical Degree,Great,Male,Good,Great,3894,16,Great,Great,80,Great,2
+444,48,Stayed,2,PhD,Marketing,Good,Female,Great,Excellent,4051,14,Great,Low,80,Great,9
+445,55,Stayed,18,PhD,Life Sciences,Low,Female,Great,Good,16835,23,Excellent,Excellent,80,Great,10
+446,41,Stayed,10,College,Life Sciences,Excellent,Male,Great,Excellent,6230,14,Great,Excellent,80,Great,14
+447,35,Stayed,1,Bachelor's degree,Marketing,Good,Male,Great,Great,4717,11,Great,Great,80,Great,11
+448,40,Stayed,6,Bachelor's degree,Life Sciences,Good,Female,Great,Great,13237,15,Great,Great,80,Great,20
+449,39,Stayed,8,Below College,Life Sciences,Great,Female,Great,Great,3755,11,Great,Low,80,Great,8
+450,31,Stayed,2,Below College,Life Sciences,Good,Male,Great,Excellent,6582,13,Great,Great,80,Excellent,6
+451,42,Stayed,24,Bachelor's degree,Medical,Excellent,Male,Great,Low,7406,21,Excellent,Excellent,80,Good,10
+452,45,Stayed,2,Bachelor's degree,Other,Excellent,Male,Great,Good,4805,19,Great,Good,80,Excellent,8
+453,26,Churned,17,Master's degree,Life Sciences,Good,Female,Great,Great,2741,11,Great,Good,80,Good,7
+454,29,Stayed,19,Bachelor's degree,Technical Degree,Excellent,Male,Great,Excellent,4262,12,Great,Good,80,Excellent,3
+455,33,Stayed,1,PhD,Medical,Low,Female,Excellent,Great,16184,19,Great,Great,80,Great,6
+456,31,Stayed,7,Bachelor's degree,Life Sciences,Great,Male,Good,Excellent,11557,21,Excellent,Great,80,Good,5
+457,18,Churned,5,Bachelor's degree,Marketing,Good,Male,Great,Good,1878,14,Great,Excellent,80,Great,0
+458,40,Stayed,28,Bachelor's degree,Other,Great,Male,Low,Low,10932,15,Great,Great,80,Great,1
+459,41,Stayed,2,Master's degree,Other,Low,Female,Good,Great,6811,17,Great,Low,80,Great,8
+460,26,Stayed,29,College,Medical,Low,Male,Great,Great,4306,12,Great,Low,80,Great,0
+461,35,Stayed,1,Bachelor's degree,Medical,Low,Female,Great,Great,4859,16,Great,Excellent,80,Great,5
+462,34,Stayed,21,Master's degree,Life Sciences,Excellent,Male,Excellent,Excellent,5337,12,Great,Excellent,80,Great,10
+463,26,Churned,24,Bachelor's degree,Technical Degree,Great,Male,Low,Excellent,2340,18,Great,Good,80,Low,1
+464,37,Stayed,1,Bachelor's degree,Technical Degree,Good,Female,Great,Excellent,7491,17,Great,Excellent,80,Excellent,6
+465,46,Stayed,18,Below College,Medical,Low,Female,Great,Great,10527,11,Great,Excellent,80,Good,2
+466,41,Stayed,2,PhD,Life Sciences,Good,Female,Great,Low,16595,16,Great,Good,80,Great,18
+467,37,Stayed,9,Master's degree,Medical,Low,Male,Great,Good,8834,13,Great,Excellent,80,Great,9
+468,52,Stayed,6,College,Technical Degree,Excellent,Male,Great,Low,5577,12,Great,Good,80,Great,10
+469,32,Churned,11,Master's degree,Other,Excellent,Male,Excellent,Great,4707,12,Great,Excellent,80,Great,4
+470,24,Stayed,24,Bachelor's degree,Medical,Excellent,Male,Great,Excellent,2400,13,Great,Great,80,Great,2
+471,38,Stayed,10,Bachelor's degree,Medical,Great,Female,Great,Great,9824,19,Great,Great,80,Great,1
+472,37,Stayed,1,Master's degree,Life Sciences,Good,Female,Great,Good,6447,12,Great,Good,80,Good,6
+473,49,Stayed,18,Master's degree,Life Sciences,Excellent,Male,Good,Great,19502,17,Great,Great,80,Great,31
+474,24,Stayed,23,Bachelor's degree,Medical,Good,Male,Excellent,Excellent,2725,11,Great,Good,80,Great,6
+475,26,Stayed,28,College,Marketing,Low,Male,Great,Good,6272,20,Excellent,Excellent,80,Excellent,5
+476,24,Stayed,17,College,Other,Excellent,Male,Good,Good,2127,21,Excellent,Excellent,80,Great,1
+477,50,Stayed,3,Bachelor's degree,Medical,Low,Male,Great,Good,18200,11,Great,Great,80,Great,32
+478,25,Stayed,13,Below College,Medical,Good,Male,Great,Great,2096,11,Great,Great,80,Great,7
+479,24,Churned,7,Bachelor's degree,Life Sciences,Low,Female,Great,Great,2886,16,Great,Excellent,80,Great,6
+480,30,Churned,12,Master's degree,Life Sciences,Good,Male,Good,Low,2033,18,Great,Great,80,Excellent,1
+481,34,Stayed,1,College,Life Sciences,Good,Male,Good,Excellent,3622,13,Great,Excellent,80,Great,6
+482,31,Churned,13,Master's degree,Medical,Good,Male,Great,Low,4233,17,Great,Great,80,Low,3
+483,35,Stayed,25,College,Other,Low,Male,Good,Excellent,3681,14,Great,Excellent,80,Great,3
+484,31,Stayed,6,Master's degree,Medical,Low,Male,Excellent,Excellent,5460,22,Excellent,Excellent,80,Excellent,7
+485,27,Stayed,6,Master's degree,Medical,Low,Female,Good,Great,2187,12,Great,Great,80,Good,5
+486,37,Stayed,2,Bachelor's degree,Marketing,Excellent,Male,Great,Great,9602,11,Great,Great,80,Good,3
+487,20,Stayed,1,Bachelor's degree,Life Sciences,Excellent,Female,Good,Good,2836,13,Great,Excellent,80,Excellent,1
+488,42,Stayed,2,Master's degree,Life Sciences,Great,Female,Great,Excellent,4089,13,Great,Good,80,Great,10
+489,43,Stayed,6,Master's degree,Other,Good,Male,Good,Excellent,16627,14,Great,Great,80,Good,1
+490,38,Stayed,1,Below College,Life Sciences,Great,Female,Great,Low,2619,17,Great,Excellent,80,Good,0
+491,43,Stayed,9,PhD,Medical,Excellent,Male,Great,Great,5679,13,Great,Good,80,Great,8
+492,48,Stayed,1,Master's degree,Life Sciences,Excellent,Female,Good,Low,15402,11,Great,Low,80,Low,3
+493,44,Stayed,1,Master's degree,Life Sciences,Low,Female,Good,Great,5985,11,Great,Good,80,Excellent,2
+494,34,Stayed,14,Bachelor's degree,Technical Degree,Great,Female,Great,Great,2579,18,Great,Excellent,80,Great,8
+495,27,Churned,2,Below College,Marketing,Great,Male,Great,Low,3041,11,Great,Good,80,Great,4
+496,21,Stayed,22,Below College,Technical Degree,Great,Male,Great,Great,3447,11,Great,Great,80,Great,3
+497,44,Stayed,3,Master's degree,Other,Excellent,Male,Great,Excellent,19513,12,Great,Low,80,Excellent,2
+498,22,Stayed,6,Below College,Medical,Low,Male,Great,Great,2773,20,Excellent,Excellent,80,Great,2
+499,33,Stayed,8,Master's degree,Marketing,Great,Male,Great,Great,7104,12,Great,Excellent,80,Great,5
+500,32,Stayed,9,Master's degree,Life Sciences,Low,Female,Great,Excellent,6322,12,Great,Excellent,80,Good,6
+501,30,Stayed,3,Bachelor's degree,Medical,Great,Female,Great,Great,2083,20,Excellent,Great,80,Great,1
+502,53,Stayed,1,Below College,Medical,Excellent,Female,Great,Low,8381,20,Excellent,Excellent,80,Excellent,14
+503,34,Stayed,1,PhD,Life Sciences,Good,Male,Great,Excellent,2691,12,Great,Excellent,80,Good,10
+504,45,Churned,26,Master's degree,Life Sciences,Low,Female,Great,Low,4286,14,Great,Excellent,80,Great,1
+505,26,Stayed,6,Bachelor's degree,Life Sciences,Great,Female,Great,Excellent,2659,13,Great,Great,80,Great,3
+506,37,Stayed,3,Bachelor's degree,Other,Great,Male,Great,Great,9434,15,Great,Great,80,Great,10
+507,29,Stayed,3,College,Medical,Good,Female,Great,Great,5561,14,Great,Low,80,Good,6
+508,35,Stayed,6,Master's degree,Life Sciences,Good,Male,Low,Excellent,6646,13,Great,Good,80,Great,17
+509,33,Stayed,6,Bachelor's degree,Life Sciences,Great,Male,Great,Excellent,7725,23,Excellent,Great,80,Low,13
+510,54,Stayed,19,Master's degree,Medical,Great,Male,Great,Good,10725,15,Great,Great,80,Excellent,9
+511,36,Stayed,9,College,Medical,Good,Male,Good,Good,8847,11,Great,Great,80,Great,3
+512,27,Stayed,3,Master's degree,Medical,Low,Male,Good,Excellent,2045,13,Great,Excellent,80,Great,4
+513,20,Churned,10,Below College,Medical,Excellent,Male,Great,Great,1009,11,Great,Excellent,80,Great,1
+514,33,Churned,3,Bachelor's degree,Life Sciences,Low,Male,Great,Low,3348,11,Great,Low,80,Great,10
+515,35,Stayed,3,Bachelor's degree,Life Sciences,Great,Male,Good,Great,1281,18,Great,Great,80,Great,1
+516,23,Stayed,4,Bachelor's degree,Medical,Low,Male,Excellent,Low,2819,16,Great,Low,80,Excellent,3
+517,25,Stayed,8,Bachelor's degree,Life Sciences,Excellent,Male,Excellent,Good,4851,22,Excellent,Great,80,Great,3
+518,38,Stayed,7,Master's degree,Marketing,Excellent,Female,Good,Excellent,4028,20,Excellent,Low,80,Great,7
+519,29,Stayed,1,Master's degree,Life Sciences,Good,Male,Low,Excellent,2720,18,Great,Excellent,80,Great,10
+520,48,Stayed,2,Below College,Marketing,Good,Male,Excellent,Good,8120,12,Great,Excellent,80,Great,2
+521,27,Stayed,3,Below College,Medical,Excellent,Female,Excellent,Excellent,4647,20,Excellent,Good,80,Great,6
+522,37,Stayed,10,College,Life Sciences,Excellent,Male,Excellent,Excellent,4680,17,Great,Low,80,Great,1
+523,50,Stayed,28,Below College,Medical,Excellent,Male,Excellent,Great,3221,11,Great,Great,80,Great,20
+524,34,Stayed,9,Bachelor's degree,Medical,Excellent,Female,Good,Good,8621,14,Great,Good,80,Excellent,8
+525,24,Churned,3,College,Life Sciences,Low,Female,Great,Great,4577,14,Great,Low,80,Great,2
+526,39,Stayed,2,Master's degree,Technical Degree,Excellent,Female,Good,Great,4553,11,Great,Low,80,Great,20
+527,32,Stayed,10,Bachelor's degree,Marketing,Excellent,Male,Great,Excellent,5396,12,Great,Excellent,80,Good,10
+528,50,Churned,8,College,Technical Degree,Good,Male,Great,Great,6796,14,Great,Low,80,Great,4
+529,38,Stayed,1,Master's degree,Life Sciences,Good,Female,Excellent,Excellent,7625,13,Great,Great,80,Good,9
+530,27,Stayed,1,College,Life Sciences,Great,Female,Great,Low,7412,11,Great,Excellent,80,Great,9
+531,32,Stayed,3,College,Life Sciences,Great,Female,Great,Excellent,11159,15,Great,Excellent,80,Great,7
+532,47,Stayed,14,Master's degree,Marketing,Excellent,Male,Great,Low,4960,12,Great,Excellent,80,Great,7
+533,40,Stayed,5,Master's degree,Life Sciences,Excellent,Male,Good,Low,10475,21,Excellent,Great,80,Great,18
+534,53,Stayed,7,Bachelor's degree,Life Sciences,Great,Male,Excellent,Great,14814,19,Great,Great,80,Great,5
+535,41,Stayed,10,Master's degree,Human Resources,Good,Male,Good,Excellent,19141,15,Great,Good,80,Good,21
+536,60,Stayed,16,Master's degree,Marketing,Low,Male,Great,Low,5405,14,Great,Excellent,80,Great,2
+537,27,Stayed,10,College,Life Sciences,Excellent,Male,Great,Low,8793,21,Excellent,Great,80,Good,9
+538,41,Stayed,1,Bachelor's degree,Human Resources,Excellent,Male,Good,Great,19189,12,Great,Good,80,Great,22
+539,50,Stayed,8,Master's degree,Marketing,Excellent,Male,Great,Good,3875,15,Great,Excellent,80,Great,2
+540,28,Churned,1,College,Life Sciences,Low,Female,Low,Good,2216,13,Great,Excellent,80,Great,7
+541,36,Stayed,8,Bachelor's degree,Life Sciences,Low,Female,Excellent,Low,11713,14,Great,Low,80,Great,8
+542,38,Stayed,1,Bachelor's degree,Life Sciences,Great,Female,Great,Great,7861,14,Great,Excellent,80,Excellent,1
+543,44,Stayed,24,Bachelor's degree,Medical,Low,Male,Low,Great,3708,14,Great,Great,80,Great,5
+544,47,Stayed,3,Bachelor's degree,Medical,Excellent,Female,Great,Great,13770,12,Great,Excellent,80,Good,22
+545,30,Stayed,27,PhD,Marketing,Great,Male,Great,Excellent,5304,23,Excellent,Excellent,80,Good,8
+546,29,Stayed,10,Bachelor's degree,Life Sciences,Great,Male,Great,Great,2642,11,Great,Great,80,Great,1
+547,42,Churned,19,Bachelor's degree,Medical,Great,Male,Excellent,Great,2759,12,Great,Excellent,80,Great,2
+548,43,Stayed,15,Bachelor's degree,Life Sciences,Excellent,Male,Good,Excellent,6804,18,Great,Great,80,Great,2
+549,34,Stayed,8,College,Medical,Good,Female,Great,Great,6142,11,Great,Excellent,80,Great,5
+550,23,Stayed,9,Below College,Medical,Good,Male,Great,Low,2500,14,Great,Excellent,80,Excellent,4
+551,39,Stayed,3,Bachelor's degree,Human Resources,Great,Female,Excellent,Good,6389,15,Great,Great,80,Low,8
+552,56,Stayed,9,Bachelor's degree,Medical,Great,Male,Great,Excellent,11103,11,Great,Great,80,Good,10
+553,40,Stayed,2,Below College,Medical,Excellent,Female,Good,Excellent,2342,20,Excellent,Excellent,80,Good,4
+554,27,Stayed,7,Bachelor's degree,Medical,Excellent,Female,Good,Low,6811,19,Great,Low,80,Low,7
+555,29,Stayed,10,Bachelor's degree,Marketing,Excellent,Male,Great,Good,2297,14,Great,Excellent,80,Great,2
+556,53,Stayed,6,Bachelor's degree,Life Sciences,Excellent,Male,Great,Excellent,2450,17,Great,Excellent,80,Great,2
+557,35,Stayed,2,Master's degree,Life Sciences,Excellent,Female,Great,Low,5093,11,Great,Low,80,Excellent,1
+558,32,Stayed,24,Master's degree,Life Sciences,Low,Male,Great,Excellent,5309,15,Great,Excellent,80,Great,10
+559,38,Stayed,2,PhD,Medical,Excellent,Male,Great,Great,3057,13,Great,Good,80,Low,1
+560,34,Stayed,8,PhD,Life Sciences,Good,Female,Great,Low,5121,14,Great,Great,80,Great,0
+561,52,Stayed,3,Master's degree,Marketing,Great,Male,Good,Low,16856,11,Great,Low,80,Excellent,34
+562,33,Churned,1,Master's degree,Other,Excellent,Male,Great,Excellent,2686,13,Great,Great,80,Good,10
+563,25,Stayed,26,Below College,Medical,Great,Female,Great,Excellent,6180,23,Excellent,Good,80,Good,6
+564,45,Stayed,2,College,Technical Degree,Good,Male,Low,Great,6632,13,Great,Low,80,Great,8
+565,23,Stayed,10,Below College,Medical,Low,Male,Excellent,Great,3505,18,Great,Excellent,80,Great,2
+566,47,Churned,27,College,Life Sciences,Good,Female,Excellent,Great,6397,12,Great,Excellent,80,Great,5
+567,34,Stayed,2,Bachelor's degree,Other,Excellent,Male,Great,Excellent,6274,22,Excellent,Great,80,Great,6
+568,55,Churned,2,Bachelor's degree,Medical,Excellent,Male,Great,Low,19859,13,Great,Excellent,80,Great,5
+569,36,Stayed,8,Master's degree,Life Sciences,Low,Male,Good,Low,7587,15,Great,Good,80,Great,10
+570,52,Stayed,19,Master's degree,Medical,Excellent,Male,Great,Excellent,4258,18,Great,Low,80,Great,4
+571,26,Stayed,1,College,Life Sciences,Low,Female,Low,Excellent,4364,14,Great,Low,80,Great,2
+572,29,Stayed,27,Bachelor's degree,Medical,Good,Female,Great,Great,4335,12,Great,Low,80,Good,8
+573,26,Churned,8,Bachelor's degree,Technical Degree,Excellent,Male,Good,Low,5326,17,Great,Great,80,Good,4
+574,34,Stayed,1,Master's degree,Life Sciences,Good,Female,Excellent,Excellent,3280,16,Great,Great,80,Great,4
+575,54,Stayed,19,Master's degree,Medical,Excellent,Female,Great,Low,5485,11,Great,Good,80,Great,5
+576,27,Stayed,8,Below College,Marketing,Great,Male,Great,Excellent,4342,19,Great,Good,80,Great,4
+577,37,Stayed,10,Below College,Life Sciences,Excellent,Female,Great,Low,2782,13,Great,Good,80,Good,5
+578,38,Stayed,2,Master's degree,Life Sciences,Low,Female,Excellent,Low,5980,12,Great,Excellent,80,Great,15
+579,34,Stayed,2,Master's degree,Medical,Great,Female,Good,Low,4381,11,Great,Great,80,Great,6
+580,35,Stayed,8,Master's degree,Life Sciences,Low,Female,Great,Excellent,2572,16,Great,Good,80,Good,3
+581,30,Stayed,1,Bachelor's degree,Life Sciences,Excellent,Male,Low,Great,3833,21,Excellent,Great,80,Great,2
+582,40,Stayed,2,College,Medical,Great,Female,Excellent,Good,4244,24,Excellent,Excellent,80,Great,8
+583,34,Stayed,8,College,Life Sciences,Great,Female,Great,Low,6500,17,Great,Good,80,Great,3
+584,42,Stayed,8,Bachelor's degree,Life Sciences,Good,Male,Great,Excellent,18430,13,Great,Good,80,Good,24
+585,23,Churned,6,Bachelor's degree,Life Sciences,Great,Male,Excellent,Low,1601,21,Excellent,Great,80,Great,0
+586,24,Stayed,9,Bachelor's degree,Life Sciences,Great,Male,Good,Good,2694,11,Great,Great,80,Great,1
+587,52,Stayed,11,Master's degree,Life Sciences,Excellent,Female,Great,Great,3149,20,Excellent,Good,80,Great,5
+588,50,Stayed,2,Bachelor's degree,Medical,Great,Male,Great,Great,17639,16,Great,Excellent,80,Great,4
+589,29,Churned,1,College,Life Sciences,Good,Female,Good,Low,2319,11,Great,Excellent,80,Great,1
+590,33,Stayed,7,Bachelor's degree,Medical,Great,Male,Great,Great,11691,11,Great,Excellent,80,Excellent,13
+591,33,Churned,16,Bachelor's degree,Marketing,Low,Female,Great,Low,5324,15,Great,Great,80,Great,3
+592,47,Stayed,2,College,Other,Great,Female,Great,Excellent,16752,11,Great,Great,80,Good,26
+593,36,Stayed,1,Bachelor's degree,Other,Great,Female,Great,Good,5228,15,Great,Low,80,Great,9
+594,29,Stayed,23,College,Life Sciences,Great,Male,Excellent,Great,2700,24,Excellent,Great,80,Great,10
+595,58,Churned,2,Master's degree,Life Sciences,Excellent,Male,Great,Good,19246,12,Great,Excellent,80,Great,31
+596,35,Stayed,1,Master's degree,Life Sciences,Excellent,Female,Excellent,Great,2506,13,Great,Great,80,Great,2
+597,42,Stayed,1,College,Life Sciences,Excellent,Female,Good,Excellent,6062,13,Great,Excellent,80,Great,4
+598,28,Churned,2,Master's degree,Medical,Great,Male,Great,Great,4382,17,Great,Excellent,80,Good,2
+599,36,Stayed,13,Bachelor's degree,Human Resources,Great,Male,Great,Good,2143,13,Great,Good,80,Great,5
+600,32,Stayed,4,Bachelor's degree,Life Sciences,Great,Female,Good,Great,6162,12,Great,Great,80,Great,14
+601,40,Stayed,16,Master's degree,Medical,Low,Male,Good,Great,5094,14,Great,Excellent,80,Great,1
+602,30,Stayed,2,Bachelor's degree,Medical,Great,Female,Good,Excellent,6877,24,Excellent,Good,80,Good,0
+603,45,Stayed,2,Bachelor's degree,Life Sciences,Good,Female,Good,Great,2274,14,Great,Excellent,80,Great,1
+604,42,Stayed,29,Bachelor's degree,Life Sciences,Good,Male,Great,Good,4434,13,Great,Excellent,80,Good,9
+605,38,Stayed,12,Bachelor's degree,Life Sciences,Low,Male,Good,Low,6288,15,Great,Great,80,Good,4
+606,34,Stayed,16,Master's degree,Life Sciences,Great,Female,Good,Excellent,2553,16,Great,Great,80,Great,5
+607,49,Churned,11,Bachelor's degree,Marketing,Great,Female,Great,Excellent,7654,18,Great,Low,80,Excellent,9
+608,55,Churned,2,Below College,Medical,Great,Male,Great,Excellent,5160,16,Great,Great,80,Good,9
+609,43,Stayed,14,College,Life Sciences,Good,Male,Great,Low,17159,24,Excellent,Great,80,Great,4
+610,27,Stayed,5,Below College,Technical Degree,Great,Male,Good,Excellent,12808,16,Great,Good,80,Great,9
+611,35,Stayed,7,Bachelor's degree,Other,Great,Male,Great,Great,10221,21,Excellent,Good,80,Excellent,8
+612,28,Stayed,2,Master's degree,Marketing,Good,Female,Great,Good,4779,20,Excellent,Low,80,Great,8
+613,34,Stayed,3,College,Human Resources,Great,Male,Great,Excellent,3737,19,Great,Great,80,Low,3
+614,26,Churned,5,College,Medical,Great,Female,Good,Great,2366,14,Great,Low,80,Great,8
+615,27,Stayed,3,Bachelor's degree,Medical,Excellent,Male,Great,Excellent,1706,11,Great,Great,80,Good,0
+616,51,Stayed,26,Master's degree,Marketing,Low,Female,Great,Great,16307,14,Great,Great,80,Good,20
+617,44,Stayed,4,Bachelor's degree,Medical,Excellent,Male,Great,Good,5933,12,Great,Excellent,80,Good,5
+618,25,Stayed,2,Below College,Medical,Low,Male,Excellent,Low,3424,13,Great,Great,80,Good,4
+619,33,Stayed,1,Bachelor's degree,Medical,Low,Male,Excellent,Low,4037,22,Excellent,Low,80,Great,9
+620,35,Stayed,27,Below College,Medical,Great,Female,Good,Low,2559,11,Great,Excellent,80,Good,6
+621,36,Stayed,1,College,Life Sciences,Good,Male,Great,Excellent,6201,14,Great,Excellent,80,Good,18
+622,32,Stayed,13,Master's degree,Life Sciences,Good,Male,Great,Excellent,4403,11,Great,Great,80,Good,5
+623,30,Stayed,5,Master's degree,Life Sciences,Good,Male,Good,Excellent,3761,12,Great,Good,80,Good,5
+624,53,Stayed,7,College,Marketing,Low,Female,Good,Excellent,10934,18,Great,Excellent,80,Great,5
+625,45,Stayed,9,Bachelor's degree,Marketing,Excellent,Male,Great,Low,10761,12,Great,Great,80,Great,5
+626,32,Stayed,8,College,Medical,Great,Female,Excellent,Great,5175,12,Great,Great,80,Good,5
+627,52,Stayed,25,Master's degree,Medical,Great,Female,Good,Excellent,13826,22,Excellent,Great,80,Great,9
+628,37,Stayed,16,Master's degree,Marketing,Excellent,Male,Good,Great,6334,19,Great,Excellent,80,Great,1
+629,28,Stayed,8,College,Medical,Good,Male,Good,Excellent,4936,13,Great,Excellent,80,Great,5
+630,22,Stayed,1,College,Life Sciences,Excellent,Male,Good,Excellent,4775,22,Excellent,Low,80,Low,2
+631,44,Stayed,8,Master's degree,Life Sciences,Low,Male,Excellent,Excellent,2818,24,Excellent,Great,80,Good,3
+632,42,Stayed,2,Below College,Medical,Good,Male,Great,Excellent,2515,14,Great,Excellent,80,Great,2
+633,36,Stayed,8,Bachelor's degree,Life Sciences,Low,Male,Good,Low,2342,21,Excellent,Great,80,Great,5
+634,25,Stayed,3,Below College,Other,Great,Male,Great,Low,4194,18,Great,Excellent,80,Great,5
+635,35,Stayed,9,Bachelor's degree,Life Sciences,Excellent,Female,Good,Great,10685,20,Excellent,Good,80,Great,17
+636,35,Churned,25,Master's degree,Life Sciences,Excellent,Female,Great,Good,2022,19,Great,Low,80,Good,10
+637,32,Stayed,1,Bachelor's degree,Life Sciences,Excellent,Male,Great,Excellent,2314,12,Great,Good,80,Great,3
+638,25,Stayed,4,Below College,Marketing,Great,Male,Good,Low,4256,12,Great,Low,80,Excellent,5
+639,49,Stayed,1,Bachelor's degree,Technical Degree,Great,Female,Great,Low,3580,16,Great,Good,80,Great,4
+640,24,Stayed,4,Below College,Life Sciences,Low,Male,Good,Excellent,3162,17,Great,Excellent,80,Good,5
+641,32,Stayed,5,College,Life Sciences,Good,Male,Great,Good,6524,14,Great,Excellent,80,Great,10
+642,38,Stayed,9,Bachelor's degree,Marketing,Good,Male,Good,Good,2899,19,Great,Excellent,80,Great,2
+643,42,Stayed,3,Bachelor's degree,Life Sciences,Great,Female,Excellent,Excellent,5231,13,Great,Good,80,Good,5
+644,31,Stayed,11,Master's degree,Life Sciences,Excellent,Male,Great,Excellent,2356,19,Great,Good,80,Great,6
+645,29,Churned,1,Bachelor's degree,Medical,Good,Female,Good,Great,2800,19,Great,Great,80,Great,3
+646,53,Stayed,8,Bachelor's degree,Marketing,Low,Male,Great,Excellent,11836,14,Great,Great,80,Great,2
+647,35,Stayed,25,Bachelor's degree,Technical Degree,Excellent,Male,Good,Good,10903,16,Great,Low,80,Great,13
+648,37,Stayed,21,College,Medical,Great,Female,Great,Excellent,2973,15,Great,Good,80,Great,5
+649,53,Stayed,23,Master's degree,Life Sciences,Excellent,Female,Great,Excellent,14275,18,Great,Great,80,Great,12
+650,43,Stayed,1,Bachelor's degree,Life Sciences,Excellent,Female,Great,Excellent,5562,13,Great,Good,80,Good,5
+651,47,Stayed,2,College,Marketing,Great,Female,Great,Excellent,4537,22,Excellent,Low,80,Great,7
+652,37,Stayed,19,College,Medical,Low,Male,Great,Good,7642,13,Great,Excellent,80,Great,10
+653,50,Stayed,2,Master's degree,Life Sciences,Low,Male,Great,Low,17924,11,Great,Excellent,80,Great,31
+654,39,Stayed,2,Bachelor's degree,Life Sciences,Excellent,Female,Good,Excellent,5204,11,Great,Great,80,Great,5
+655,33,Stayed,3,College,Human Resources,Excellent,Male,Great,Good,2277,11,Great,Great,80,Excellent,4
+656,32,Churned,25,Master's degree,Life Sciences,Low,Male,Great,Excellent,2795,24,Excellent,Great,80,Low,1
+657,29,Stayed,7,Below College,Medical,Low,Female,Good,Excellent,2532,14,Great,Great,80,Great,4
+658,44,Stayed,9,College,Life Sciences,Good,Male,Great,Low,2559,13,Great,Excellent,80,Great,8
+659,28,Stayed,5,Master's degree,Medical,Low,Male,Great,Excellent,4908,14,Great,Good,80,Great,4
+660,58,Churned,2,Below College,Life Sciences,Excellent,Male,Good,Excellent,2380,14,Great,Excellent,80,Good,1
+661,43,Stayed,8,Bachelor's degree,Life Sciences,Low,Female,Great,Good,4765,21,Excellent,Great,80,Excellent,1
+662,20,Churned,2,Bachelor's degree,Medical,Great,Female,Good,Great,2044,13,Great,Excellent,80,Good,2
+663,21,Churned,18,Below College,Other,Excellent,Female,Great,Excellent,2693,19,Great,Low,80,Good,1
+664,36,Stayed,14,Below College,Life Sciences,Great,Male,Great,Excellent,6586,17,Great,Low,80,Good,16
+665,47,Stayed,2,Master's degree,Life Sciences,Excellent,Female,Good,Excellent,3294,18,Great,Low,80,Good,3
+666,22,Churned,3,Below College,Life Sciences,Good,Female,Great,Great,4171,19,Great,Low,80,Excellent,3
+667,41,Churned,2,Master's degree,Life Sciences,Good,Female,Low,Excellent,2778,13,Great,Great,80,Good,7
+668,28,Stayed,9,Bachelor's degree,Medical,Great,Female,Great,Great,2377,18,Great,Good,80,Great,2
+669,39,Churned,6,Bachelor's degree,Medical,Excellent,Male,Great,Low,2404,21,Excellent,Excellent,80,Low,2
+670,27,Stayed,4,Bachelor's degree,Life Sciences,Good,Female,Great,Great,2318,19,Great,Great,80,Great,1
+671,34,Stayed,10,Bachelor's degree,Life Sciences,Good,Male,Great,Good,2008,14,Great,Good,80,Great,1
+672,42,Stayed,14,College,Medical,Great,Female,Good,Great,6244,17,Great,Low,80,Great,5
+673,33,Stayed,1,Master's degree,Other,Great,Male,Good,Low,2799,11,Great,Good,80,Great,3
+674,58,Stayed,5,Bachelor's degree,Technical Degree,Great,Female,Good,Good,10552,13,Great,Excellent,80,Great,6
+675,31,Stayed,7,Master's degree,Life Sciences,Good,Male,Good,Great,2329,15,Great,Good,80,Excellent,7
+676,35,Stayed,21,Below College,Life Sciences,Excellent,Female,Great,Excellent,4014,25,Excellent,Excellent,80,Low,10
+677,49,Stayed,8,College,Other,Low,Female,Great,Good,7403,11,Great,Great,80,Good,26
+678,48,Stayed,20,Master's degree,Medical,Excellent,Male,Great,Great,2259,17,Great,Low,80,Good,0
+679,31,Stayed,20,College,Marketing,Excellent,Female,Great,Great,6932,13,Great,Excellent,80,Good,9
+680,36,Stayed,7,Master's degree,Other,Good,Male,Great,Excellent,4678,18,Great,Great,80,Great,6
+681,38,Stayed,1,Bachelor's degree,Technical Degree,Excellent,Female,Great,Low,13582,13,Great,Good,80,Great,15
+682,32,Stayed,1,Bachelor's degree,Life Sciences,Great,Female,Good,Good,2332,20,Excellent,Great,80,Great,3
+683,25,Churned,19,College,Marketing,Great,Male,Good,Good,2413,18,Great,Great,80,Great,1
+684,40,Stayed,10,Master's degree,Marketing,Low,Male,Good,Good,9705,12,Great,Good,80,Good,1
+685,26,Stayed,1,Bachelor's degree,Medical,Great,Male,Good,Low,4294,12,Great,Good,80,Great,7
+686,41,Stayed,6,Bachelor's degree,Medical,Excellent,Male,Great,Low,4721,13,Great,Great,80,Great,18
+687,36,Stayed,2,Master's degree,Medical,Great,Male,Great,Great,2519,21,Excellent,Great,80,Great,11
+688,19,Churned,21,Bachelor's degree,Other,Excellent,Male,Good,Good,2121,13,Great,Good,80,Excellent,1
+689,20,Churned,4,Bachelor's degree,Technical Degree,Low,Male,Great,Low,2973,19,Great,Good,80,Great,1
+690,31,Stayed,12,Bachelor's degree,Medical,Excellent,Female,Great,Excellent,5855,11,Great,Great,80,Low,9
+691,40,Stayed,9,Master's degree,Medical,Excellent,Male,Great,Good,3617,14,Great,Excellent,80,Great,1
+692,32,Stayed,3,Master's degree,Medical,Great,Female,Great,Low,6725,12,Great,Great,80,Excellent,8
+693,36,Churned,3,Below College,Life Sciences,Great,Male,Good,Excellent,10325,11,Great,Low,80,Great,16
+694,33,Stayed,1,Bachelor's degree,Life Sciences,Good,Female,Good,Excellent,6949,14,Great,Low,80,Great,5
+695,37,Churned,1,Master's degree,Life Sciences,Low,Male,Good,Great,10609,11,Great,Great,80,Low,14
+696,45,Stayed,4,College,Life Sciences,Great,Male,Great,Good,4447,12,Great,Good,80,Good,9
+697,29,Stayed,20,Bachelor's degree,Technical Degree,Great,Female,Great,Excellent,2157,15,Great,Good,80,Great,3
+698,35,Stayed,18,Bachelor's degree,Medical,Great,Female,Great,Great,4601,16,Great,Good,80,Great,5
+699,52,Stayed,1,College,Life Sciences,Excellent,Male,Great,Excellent,17099,15,Great,Good,80,Good,9
+700,58,Churned,2,Bachelor's degree,Technical Degree,Excellent,Male,Great,Great,2479,24,Excellent,Low,80,Great,1
+701,53,Stayed,2,College,Medical,Great,Male,Great,Great,14852,13,Great,Great,80,Excellent,17
+702,30,Stayed,8,College,Other,Great,Male,Great,Great,7264,11,Great,Low,80,Excellent,8
+703,38,Stayed,10,Bachelor's degree,Technical Degree,Great,Female,Great,Excellent,5666,13,Great,Good,80,Great,5
+704,35,Stayed,3,Master's degree,Life Sciences,Excellent,Male,Great,Excellent,7823,13,Great,Good,80,Great,10
+705,39,Stayed,2,PhD,Life Sciences,Low,Male,Excellent,Great,7880,18,Great,Excellent,80,Great,8
+706,40,Churned,24,Bachelor's degree,Life Sciences,Good,Female,Excellent,Good,13194,16,Great,Excellent,80,Good,1
+707,47,Stayed,16,Master's degree,Medical,Great,Male,Excellent,Great,5067,19,Great,Great,80,Excellent,19
+708,36,Stayed,8,Master's degree,Technical Degree,Low,Male,Great,Excellent,5079,13,Great,Excellent,80,Great,7
+709,31,Churned,9,College,Medical,Great,Male,Good,Low,2321,22,Excellent,Low,80,Great,3
+710,33,Stayed,17,Bachelor's degree,Life Sciences,Excellent,Male,Great,Great,17444,11,Great,Excellent,80,Great,10
+711,29,Churned,10,Bachelor's degree,Life Sciences,Excellent,Female,Good,Low,2404,20,Excellent,Great,80,Great,0
+712,33,Stayed,13,Below College,Life Sciences,Good,Female,Great,Excellent,3452,18,Great,Low,80,Great,3
+713,45,Stayed,1,Master's degree,Medical,Excellent,Female,Great,Excellent,2270,14,Great,Excellent,80,Great,5
+714,50,Stayed,1,College,Medical,Excellent,Male,Great,Excellent,17399,22,Excellent,Great,80,Good,5
+715,33,Stayed,1,Master's degree,Other,Great,Female,Excellent,Good,5488,13,Great,Low,80,Great,6
+716,41,Stayed,9,Bachelor's degree,Medical,Low,Male,Great,Great,19419,17,Great,Good,80,Excellent,18
+717,27,Stayed,16,Master's degree,Technical Degree,Great,Female,Great,Good,2811,14,Great,Good,80,Great,2
+718,45,Stayed,23,College,Life Sciences,Excellent,Male,Great,Low,3633,15,Great,Great,80,Great,9
+719,47,Stayed,4,College,Life Sciences,Excellent,Female,Great,Excellent,4163,17,Great,Great,80,Great,9
+720,30,Churned,22,Bachelor's degree,Life Sciences,Low,Female,Great,Great,2132,11,Great,Good,80,Great,5
+721,50,Stayed,24,Bachelor's degree,Life Sciences,Excellent,Male,Great,Great,13973,18,Great,Excellent,80,Great,12
+722,38,Stayed,10,Below College,Medical,Great,Male,Great,Great,2684,17,Great,Good,80,Good,2
+723,46,Stayed,7,College,Medical,Excellent,Male,Great,Great,10845,13,Great,Good,80,Great,8
+724,24,Stayed,17,Below College,Medical,Excellent,Female,Good,Great,4377,15,Great,Good,80,Great,4
+725,35,Churned,14,Master's degree,Other,Great,Male,Good,Good,3743,24,Excellent,Excellent,80,Low,4
+726,31,Stayed,1,Below College,Life Sciences,Great,Female,Great,Low,4148,12,Great,Great,80,Great,4
+727,18,Stayed,5,College,Life Sciences,Good,Male,Great,Excellent,1051,15,Great,Excellent,80,Great,0
+728,54,Stayed,17,Bachelor's degree,Technical Degree,Great,Female,Great,Great,10739,11,Great,Great,80,Great,10
+729,35,Stayed,25,Master's degree,Medical,Great,Female,Great,Great,10388,11,Great,Great,80,Good,16
+730,30,Stayed,8,College,Life Sciences,Good,Female,Excellent,Low,11416,12,Great,Great,80,Good,8
+731,20,Churned,11,Bachelor's degree,Medical,Excellent,Female,Good,Low,2600,15,Great,Low,80,Great,1
+732,30,Churned,5,Bachelor's degree,Medical,Good,Female,Great,Good,2422,17,Great,Low,80,Great,3
+733,26,Stayed,2,College,Medical,Excellent,Male,Excellent,Excellent,5472,12,Great,Good,80,Great,8
+734,22,Stayed,8,Below College,Life Sciences,Good,Male,Low,Low,2451,15,Great,Low,80,Good,4
+735,48,Stayed,6,Bachelor's degree,Life Sciences,Low,Male,Good,Great,4240,13,Great,Excellent,80,Great,2
+736,48,Stayed,4,Master's degree,Life Sciences,Great,Male,Good,Great,10999,14,Great,Good,80,Great,15
+737,41,Stayed,7,College,Medical,Excellent,Female,Great,Great,5003,14,Great,Good,80,Great,2
+738,39,Stayed,1,Below College,Life Sciences,Excellent,Female,Good,Excellent,12742,16,Great,Great,80,Great,21
+739,27,Stayed,2,Master's degree,Life Sciences,Low,Female,Great,Excellent,4227,18,Great,Good,80,Great,3
+740,35,Stayed,10,Bachelor's degree,Other,Good,Male,Great,Excellent,3917,20,Excellent,Low,80,Good,3
+741,42,Stayed,5,College,Marketing,Excellent,Male,Great,Great,18303,13,Great,Good,80,Excellent,1
+742,50,Stayed,9,Bachelor's degree,Life Sciences,Low,Male,Great,Excellent,2380,18,Great,Good,80,Great,1
+743,59,Stayed,2,Bachelor's degree,Life Sciences,Great,Female,Good,Excellent,13726,13,Great,Low,80,Great,5
+744,37,Churned,11,College,Medical,Low,Female,Low,Good,4777,15,Great,Low,80,Low,1
+745,55,Stayed,18,Master's degree,Medical,Great,Male,Great,Good,6385,14,Great,Excellent,80,Great,8
+746,41,Stayed,7,Below College,Life Sciences,Good,Female,Low,Great,19973,22,Excellent,Good,80,Great,21
+747,38,Stayed,3,Master's degree,Life Sciences,Good,Male,Great,Excellent,6861,12,Great,Great,80,Great,1
+748,26,Churned,29,College,Medical,Good,Male,Low,Low,4969,18,Great,Excellent,80,Great,2
+749,52,Churned,2,Below College,Marketing,Low,Female,Low,Excellent,19845,15,Great,Excellent,80,Great,32
+750,44,Stayed,28,Bachelor's degree,Medical,Excellent,Female,Excellent,Excellent,13320,18,Great,Great,80,Great,12
+751,50,Stayed,1,Bachelor's degree,Life Sciences,Excellent,Female,Great,Great,6347,12,Great,Low,80,Great,18
+752,36,Churned,16,Master's degree,Life Sciences,Great,Female,Excellent,Low,2743,16,Great,Great,80,Great,17
+753,39,Stayed,22,Bachelor's degree,Medical,Excellent,Female,Great,Low,10880,13,Great,Great,80,Great,21
+754,33,Stayed,8,Below College,Life Sciences,Good,Female,Good,Excellent,2342,19,Great,Excellent,80,Good,2
+755,45,Stayed,11,College,Life Sciences,Excellent,Female,Great,Excellent,17650,13,Great,Good,80,Excellent,9
+756,32,Stayed,29,Master's degree,Medical,Excellent,Female,Great,Great,4025,12,Great,Good,80,Great,8
+757,34,Stayed,1,Master's degree,Marketing,Good,Male,Excellent,Excellent,9725,11,Great,Excellent,80,Good,15
+758,59,Stayed,1,College,Technical Degree,Good,Male,Great,Excellent,11904,14,Great,Great,80,Low,6
+759,45,Stayed,24,Master's degree,Medical,Good,Male,Great,Good,2177,16,Great,Low,80,Great,6
+760,53,Stayed,2,Bachelor's degree,Marketing,Great,Female,Good,Good,7525,12,Great,Low,80,Great,15
+761,36,Churned,15,Bachelor's degree,Other,Low,Male,Great,Great,4834,14,Great,Good,80,Good,1
+762,26,Churned,2,Bachelor's degree,Life Sciences,Low,Male,Great,Low,2042,14,Great,Good,80,Great,3
+763,34,Stayed,10,Master's degree,Life Sciences,Great,Female,Great,Great,2220,19,Great,Excellent,80,Great,1
+764,28,Stayed,10,Below College,Medical,Excellent,Male,Great,Good,1052,22,Excellent,Good,80,Great,1
+765,38,Stayed,3,Master's degree,Other,Great,Male,Great,Great,2821,16,Great,Low,80,Great,2
+766,50,Stayed,2,Master's degree,Medical,Good,Male,Great,Great,19237,11,Great,Excellent,80,Good,8
+767,37,Stayed,3,Bachelor's degree,Other,Excellent,Female,Great,Good,4107,15,Great,Low,80,Good,4
+768,40,Stayed,26,Bachelor's degree,Marketing,Great,Male,Great,Low,8396,14,Great,Good,80,Good,7
+769,26,Stayed,1,Below College,Medical,Low,Female,Good,Great,2007,13,Great,Great,80,Great,5
+770,46,Stayed,1,Master's degree,Medical,Excellent,Male,Great,Excellent,19627,17,Great,Excellent,80,Great,2
+771,54,Stayed,2,Master's degree,Life Sciences,Great,Female,Good,Great,10686,11,Great,Good,80,Great,9
+772,56,Stayed,9,Bachelor's degree,Medical,Low,Female,Great,Great,2942,19,Great,Good,80,Great,5
+773,36,Stayed,12,PhD,Medical,Excellent,Female,Good,Excellent,8858,11,Great,Good,80,Good,14
+774,55,Stayed,2,Below College,Medical,Great,Male,Good,Low,16756,15,Great,Good,80,Excellent,9
+775,43,Stayed,25,Bachelor's degree,Medical,Great,Male,Good,Excellent,10798,13,Great,Great,80,Great,1
+776,20,Churned,9,Bachelor's degree,Marketing,Excellent,Female,Great,Excellent,2323,14,Great,Good,80,Great,2
+777,21,Churned,10,Bachelor's degree,Life Sciences,Great,Female,Good,Low,1416,13,Great,Low,80,Good,1
+778,46,Stayed,8,Master's degree,Life Sciences,Excellent,Female,Good,Low,4615,23,Excellent,Low,80,Great,16
+779,51,Churned,4,Master's degree,Life Sciences,Low,Male,Great,Great,2461,12,Great,Great,80,Excellent,10
+780,28,Churned,24,College,Technical Degree,Good,Male,Good,Low,8722,12,Great,Low,80,Good,10
+781,26,Stayed,1,College,Medical,Low,Male,Good,Low,3955,16,Great,Low,80,Great,5
+782,30,Stayed,20,Bachelor's degree,Other,Great,Male,Great,Low,9957,15,Great,Great,80,Good,6
+783,41,Stayed,7,College,Technical Degree,Good,Female,Excellent,Great,3376,13,Great,Great,80,Great,10
+784,38,Stayed,17,Below College,Life Sciences,Great,Female,Good,Great,8823,18,Great,Low,80,Good,19
+785,40,Stayed,20,Master's degree,Technical Degree,Low,Male,Great,Excellent,10322,20,Excellent,Excellent,80,Great,11
+786,27,Stayed,8,PhD,Life Sciences,Low,Male,Low,Great,4621,19,Great,Excellent,80,Great,3
+787,55,Stayed,2,Below College,Life Sciences,Excellent,Male,Great,Good,10976,18,Great,Good,80,Great,3
+788,28,Stayed,10,Bachelor's degree,Other,Great,Female,Great,Great,3660,13,Great,Excellent,80,Excellent,8
+789,44,Churned,1,College,Medical,Good,Male,Good,Low,10482,14,Great,Excellent,80,Great,20
+790,33,Stayed,5,Bachelor's degree,Life Sciences,Excellent,Male,Good,Excellent,7119,15,Great,Great,80,Great,3
+791,35,Churned,4,Bachelor's degree,Technical Degree,Excellent,Male,Great,Low,9582,22,Excellent,Low,80,Great,8
+792,33,Churned,29,Master's degree,Medical,Low,Female,Good,Great,4508,22,Excellent,Good,80,Great,13
+793,28,Stayed,15,College,Life Sciences,Low,Male,Great,Great,2207,16,Great,Excellent,80,Good,4
+794,34,Stayed,3,Below College,Life Sciences,Low,Male,Great,Excellent,7756,17,Great,Great,80,Good,6
+795,37,Stayed,10,Master's degree,Life Sciences,Excellent,Female,Good,Excellent,6694,14,Great,Great,80,Great,1
+796,25,Churned,4,Below College,Technical Degree,Excellent,Male,Great,Excellent,3691,15,Great,Good,80,Excellent,7
+797,26,Churned,21,Bachelor's degree,Medical,Low,Male,Great,Great,2377,20,Excellent,Great,80,Good,1
+798,33,Churned,25,Bachelor's degree,Medical,Low,Male,Good,Good,2313,20,Excellent,Good,80,Great,2
+799,42,Stayed,2,College,Medical,Excellent,Male,Great,Low,17665,17,Great,Excellent,80,Great,22
+800,28,Churned,1,Bachelor's degree,Medical,Low,Male,Good,Good,2596,15,Great,Low,80,Great,1
+801,50,Churned,1,Master's degree,Other,Excellent,Male,Great,Great,4728,14,Great,Excellent,80,Great,0
+802,33,Stayed,7,Bachelor's degree,Life Sciences,Excellent,Female,Great,Good,4302,17,Great,Great,80,Great,3
+803,34,Stayed,3,Master's degree,Life Sciences,Great,Male,Good,Excellent,2979,17,Great,Excellent,80,Great,0
+804,48,Stayed,1,Master's degree,Medical,Low,Male,Excellent,Excellent,16885,22,Excellent,Great,80,Good,5
+805,45,Stayed,9,Master's degree,Life Sciences,Good,Female,Good,Great,5593,13,Great,Excellent,80,Great,15
+806,52,Stayed,7,Master's degree,Life Sciences,Good,Male,Great,Good,10445,19,Great,Excellent,80,Great,8
+807,38,Stayed,10,Master's degree,Marketing,Great,Male,Good,Great,8740,14,Great,Good,80,Great,8
+808,29,Stayed,28,Master's degree,Life Sciences,Great,Female,Great,Excellent,2514,22,Excellent,Low,80,Great,7
+809,28,Stayed,3,Bachelor's degree,Medical,Excellent,Female,Great,Good,7655,17,Great,Good,80,Good,9
+810,46,Stayed,3,Below College,Marketing,Low,Male,Great,Great,17465,12,Great,Excellent,80,Great,12
+811,38,Stayed,2,College,Marketing,Excellent,Male,Great,Good,7351,16,Great,Great,80,Great,1
+812,43,Stayed,27,Bachelor's degree,Life Sciences,Great,Female,Great,Low,10820,11,Great,Great,80,Great,8
+813,39,Churned,2,Bachelor's degree,Life Sciences,Low,Male,Great,Excellent,12169,11,Great,Excellent,80,Great,18
+814,40,Stayed,14,Bachelor's degree,Medical,Great,Male,Good,Great,19626,14,Great,Low,80,Excellent,20
+815,21,Stayed,1,Below College,Technical Degree,Excellent,Female,Good,Good,2070,11,Great,Great,80,Excellent,2
+816,39,Stayed,9,Bachelor's degree,Life Sciences,Great,Male,Great,Good,6782,15,Great,Great,80,Good,5
+817,36,Stayed,18,Master's degree,Life Sciences,Low,Male,Great,Excellent,7779,20,Excellent,Low,80,Great,11
+818,31,Stayed,20,Bachelor's degree,Life Sciences,Great,Male,Excellent,Excellent,2791,12,Great,Low,80,Great,2
+819,28,Stayed,2,Below College,Life Sciences,Low,Male,Good,Good,3201,17,Great,Low,80,Low,5
+820,35,Stayed,11,College,Marketing,Excellent,Male,Great,Excellent,4968,11,Great,Excellent,80,Great,5
+821,49,Stayed,8,Master's degree,Technical Degree,Excellent,Male,Good,Good,13120,17,Great,Good,80,Great,9
+822,34,Stayed,2,College,Life Sciences,Excellent,Male,Great,Great,4033,11,Great,Excellent,80,Good,3
+823,29,Stayed,10,Bachelor's degree,Life Sciences,Excellent,Female,Great,Good,3291,14,Great,Excellent,80,Good,7
+824,42,Stayed,29,Bachelor's degree,Medical,Good,Male,Low,Excellent,4272,19,Great,Low,80,Great,1
+825,29,Stayed,8,Below College,Medical,Good,Male,Good,Excellent,5056,15,Great,Great,80,Good,10
+826,38,Stayed,1,Bachelor's degree,Human Resources,Great,Male,Excellent,Great,2844,13,Great,Excellent,80,Excellent,7
+827,28,Stayed,6,Bachelor's degree,Life Sciences,Great,Male,Good,Great,2703,14,Great,Excellent,80,Great,3
+828,18,Churned,8,Below College,Medical,Great,Male,Great,Great,1904,12,Great,Excellent,80,Great,0
+829,33,Churned,9,Master's degree,Marketing,Low,Female,Great,Low,8224,17,Great,Low,80,Great,5
+830,41,Stayed,12,Master's degree,Life Sciences,Good,Male,Great,Excellent,4766,11,Great,Low,80,Great,1
+831,31,Churned,15,Bachelor's degree,Medical,Great,Male,Great,Great,2610,12,Great,Great,80,Good,2
+832,37,Stayed,25,College,Medical,Great,Female,Good,Excellent,5731,13,Great,Great,80,Great,6
+833,27,Stayed,6,Bachelor's degree,Life Sciences,Excellent,Male,Good,Great,2539,13,Great,Great,80,Great,4
+834,34,Stayed,9,Below College,Life Sciences,Good,Female,Great,Great,5714,20,Excellent,Low,80,Good,6
+835,35,Stayed,8,Master's degree,Technical Degree,Great,Male,Great,Great,4323,17,Great,Good,80,Low,5
+836,29,Churned,23,Below College,Life Sciences,Excellent,Female,Good,Low,7336,13,Great,Low,80,Low,11
+837,40,Stayed,9,Master's degree,Medical,Good,Female,Great,Great,13499,17,Great,Great,80,Good,18
+838,42,Churned,12,Bachelor's degree,Life Sciences,Great,Male,Great,Low,13758,12,Great,Good,80,Good,21
+839,42,Stayed,4,Master's degree,Marketing,Good,Male,Great,Low,5155,13,Great,Excellent,80,Excellent,6
+840,35,Stayed,1,Master's degree,Medical,Excellent,Male,Good,Great,2258,12,Great,Good,80,Great,8
+841,24,Stayed,24,Bachelor's degree,Medical,Excellent,Male,Great,Good,3597,22,Excellent,Excellent,80,Great,4
+842,28,Churned,12,Below College,Life Sciences,Great,Female,Great,Excellent,2515,11,Great,Excellent,80,Good,1
+843,26,Stayed,3,Master's degree,Medical,Low,Male,Excellent,Excellent,4420,22,Excellent,Good,80,Great,8
+844,30,Stayed,10,Bachelor's degree,Marketing,Great,Male,Good,Great,6578,18,Great,Low,80,Great,10
+845,40,Stayed,26,College,Medical,Great,Female,Good,Excellent,4422,13,Great,Excellent,80,Low,1
+846,35,Stayed,2,Bachelor's degree,Life Sciences,Great,Male,Good,Good,10274,18,Great,Good,80,Excellent,7
+847,34,Stayed,1,Bachelor's degree,Medical,Excellent,Male,Good,Low,5343,20,Excellent,Great,80,Great,13
+848,35,Stayed,4,Master's degree,Other,Excellent,Male,Good,Excellent,2376,13,Great,Good,80,Excellent,2
+849,43,Churned,9,Bachelor's degree,Marketing,Low,Female,Low,Great,5346,13,Great,Good,80,Good,4
+850,32,Stayed,2,Below College,Life Sciences,Great,Female,Great,Low,2827,12,Great,Great,80,Great,1
+851,56,Stayed,4,Master's degree,Technical Degree,Excellent,Female,Great,Low,19943,13,Great,Excellent,80,Great,5
+852,29,Stayed,6,Below College,Medical,Good,Female,Great,Excellent,3131,13,Great,Low,80,Great,10
+853,19,Stayed,9,College,Life Sciences,Great,Male,Great,Low,2552,25,Excellent,Great,80,Great,1
+854,45,Stayed,7,Bachelor's degree,Medical,Low,Female,Great,Great,4477,19,Great,Great,80,Good,3
+855,37,Stayed,1,Bachelor's degree,Life Sciences,Excellent,Female,Good,Excellent,6474,13,Great,Good,80,Good,14
+856,20,Stayed,3,Bachelor's degree,Life Sciences,Low,Male,Good,Great,3033,12,Great,Low,80,Good,2
+857,44,Churned,10,Master's degree,Life Sciences,Great,Male,Great,Great,2936,11,Great,Great,80,Great,6
+858,53,Stayed,7,College,Medical,Excellent,Female,Great,Great,18606,18,Great,Good,80,Great,7
+859,29,Stayed,15,Below College,Life Sciences,Good,Female,Low,Excellent,2168,18,Great,Low,80,Good,5
+860,22,Churned,3,Master's degree,Life Sciences,Great,Male,Good,Excellent,2853,11,Great,Good,80,Great,0
+861,46,Stayed,2,Bachelor's degree,Marketing,Great,Female,Great,Low,17048,23,Excellent,Low,80,Great,26
+862,44,Stayed,17,Bachelor's degree,Life Sciences,Excellent,Male,Low,Great,2290,13,Great,Excellent,80,Great,0
+863,33,Stayed,2,Bachelor's degree,Human Resources,Good,Male,Great,Great,3600,13,Great,Excellent,80,Great,5
+864,41,Churned,5,College,Life Sciences,Low,Male,Good,Low,2107,17,Great,Low,80,Low,1
+865,30,Stayed,29,Master's degree,Life Sciences,Great,Male,Great,Low,4115,19,Great,Great,80,Great,4
+866,40,Stayed,2,Master's degree,Medical,Good,Male,Great,Good,4327,12,Great,Excellent,80,Great,0
+867,50,Stayed,2,Bachelor's degree,Medical,Excellent,Female,Great,Low,17856,22,Excellent,Great,80,Great,2
+868,28,Stayed,19,Master's degree,Medical,Excellent,Male,Good,Low,3196,12,Great,Great,80,Great,6
+869,46,Stayed,15,College,Life Sciences,Excellent,Male,Great,Good,19081,11,Great,Low,80,Great,4
+870,35,Stayed,17,Master's degree,Life Sciences,Great,Male,Great,Low,8966,15,Great,Excellent,80,Great,7
+871,24,Churned,17,College,Life Sciences,Excellent,Female,Great,Good,2210,13,Great,Low,80,Low,1
+872,33,Stayed,25,Bachelor's degree,Medical,Good,Female,Great,Great,4539,12,Great,Low,80,Good,10
+873,36,Stayed,6,Master's degree,Life Sciences,Great,Male,Low,Great,2741,14,Great,Great,80,Great,7
+874,30,Stayed,7,Master's degree,Life Sciences,Great,Male,Great,Great,3491,13,Great,Low,80,Good,10
+875,44,Stayed,29,Master's degree,Other,Excellent,Male,Great,Excellent,4541,25,Excellent,Good,80,Great,20
+876,20,Stayed,21,Bachelor's degree,Marketing,Great,Male,Excellent,Excellent,2678,17,Great,Excellent,80,Great,2
+877,46,Stayed,2,Master's degree,Technical Degree,Excellent,Male,Great,Excellent,7379,11,Great,Great,80,Good,6
+878,42,Stayed,2,PhD,Medical,Excellent,Male,Excellent,Low,6272,16,Great,Low,80,Excellent,4
+879,60,Stayed,7,Master's degree,Marketing,Good,Male,Excellent,Excellent,5220,18,Great,Good,80,Great,11
+880,32,Stayed,13,Bachelor's degree,Other,Great,Female,Good,Good,2743,20,Excellent,Great,80,Great,2
+881,32,Stayed,2,College,Life Sciences,Excellent,Female,Great,Great,4998,14,Great,Excellent,80,Great,8
+882,36,Stayed,1,Bachelor's degree,Technical Degree,Great,Female,Low,Low,10252,21,Excellent,Great,80,Great,7
+883,33,Stayed,9,Bachelor's degree,Medical,Low,Male,Great,Excellent,2781,13,Great,Good,80,Great,14
+884,40,Stayed,10,Bachelor's degree,Technical Degree,Good,Female,Good,Good,6852,12,Great,Good,80,Excellent,5
+885,25,Stayed,10,Master's degree,Life Sciences,Great,Male,Great,Excellent,4950,14,Great,Good,80,Great,4
+886,30,Stayed,1,Bachelor's degree,Medical,Excellent,Male,Great,Good,3579,21,Excellent,Low,80,Great,11
+887,42,Stayed,26,PhD,Medical,Low,Female,Great,Low,13191,17,Great,Great,80,Great,1
+888,35,Stayed,8,College,Marketing,Great,Female,Good,Excellent,10377,11,Great,Good,80,Good,13
+889,27,Stayed,14,Bachelor's degree,Life Sciences,Low,Male,Great,Low,2235,14,Great,Excellent,80,Good,9
+890,54,Stayed,1,Master's degree,Life Sciences,Excellent,Female,Great,Great,10502,17,Great,Low,80,Low,5
+891,44,Stayed,2,Below College,Life Sciences,Low,Female,Excellent,Excellent,2011,13,Great,Excellent,80,Great,10
+892,19,Churned,10,Bachelor's degree,Medical,Low,Female,Good,Good,1859,25,Excellent,Good,80,Excellent,1
+893,29,Stayed,1,Bachelor's degree,Life Sciences,Low,Female,Great,Excellent,3760,15,Great,Low,80,Great,3
+894,54,Stayed,3,Bachelor's degree,Life Sciences,Excellent,Male,Great,Excellent,17779,14,Great,Low,80,Great,10
+895,31,Stayed,11,College,Medical,Great,Male,Great,Low,6833,12,Great,Excellent,80,Good,6
+896,31,Stayed,24,Bachelor's degree,Medical,Great,Female,Good,Low,6812,19,Great,Good,80,Great,10
+897,59,Stayed,3,Bachelor's degree,Life Sciences,Great,Female,Good,Excellent,5171,17,Great,Excellent,80,Great,6
+898,43,Stayed,3,Bachelor's degree,Life Sciences,Great,Male,Low,Excellent,19740,14,Great,Good,80,Great,8
+899,49,Stayed,4,College,Medical,Low,Male,Good,Great,18711,13,Great,Great,80,Excellent,1
+900,36,Stayed,3,Bachelor's degree,Technical Degree,Great,Male,Great,Good,3692,12,Great,Great,80,Good,11
+901,48,Stayed,2,College,Technical Degree,Excellent,Male,Excellent,Good,2559,11,Great,Great,80,Good,1
+902,27,Stayed,4,College,Life Sciences,Low,Male,Great,Great,2517,11,Great,Good,80,Great,5
+903,29,Stayed,7,Bachelor's degree,Life Sciences,Great,Male,Great,Excellent,6623,11,Great,Good,80,Great,6
+904,48,Stayed,1,Bachelor's degree,Life Sciences,Excellent,Male,Good,Excellent,18265,12,Great,Great,80,Excellent,1
+905,29,Stayed,1,Bachelor's degree,Life Sciences,Excellent,Female,Good,Excellent,16124,14,Great,Good,80,Good,7
+906,34,Stayed,20,Bachelor's degree,Technical Degree,Great,Female,Excellent,Great,2585,17,Great,Excellent,80,Good,1
+907,44,Stayed,5,Bachelor's degree,Marketing,Good,Male,Great,Good,18213,11,Great,Great,80,Great,22
+908,33,Stayed,10,PhD,Marketing,Excellent,Male,Excellent,Great,8380,14,Great,Excellent,80,Great,9
+909,19,Stayed,25,Bachelor's degree,Life Sciences,Good,Female,Excellent,Excellent,2994,12,Great,Excellent,80,Great,1
+910,23,Stayed,1,College,Life Sciences,Excellent,Male,Great,Great,1223,22,Excellent,Excellent,80,Great,1
+911,25,Churned,24,Below College,Life Sciences,Great,Male,Low,Excellent,1118,14,Great,Excellent,80,Great,1
+912,26,Stayed,4,College,Life Sciences,Great,Male,Great,Excellent,2875,20,Excellent,Good,80,Good,8
+913,45,Churned,2,Bachelor's degree,Marketing,Low,Female,Low,Good,18824,16,Great,Low,80,Great,24
+914,55,Stayed,8,Below College,Medical,Excellent,Male,Good,Good,13577,15,Great,Excellent,80,Great,33
+915,21,Churned,10,College,Life Sciences,Low,Female,Good,Great,2625,20,Excellent,Great,80,Low,2
+916,46,Stayed,4,College,Marketing,Excellent,Female,Good,Good,18789,14,Great,Great,80,Great,11
+917,34,Stayed,2,Bachelor's degree,Marketing,Great,Female,Great,Low,4538,12,Great,Excellent,80,Great,3
+918,51,Stayed,9,Bachelor's degree,Life Sciences,Excellent,Male,Great,Good,19847,24,Excellent,Low,80,Good,29
+919,59,Stayed,18,Master's degree,Medical,Excellent,Male,Great,Excellent,10512,12,Great,Excellent,80,Good,9
+920,34,Stayed,19,Bachelor's degree,Medical,Great,Female,Great,Good,4444,13,Great,Great,80,Excellent,11
+921,28,Stayed,1,Master's degree,Medical,Excellent,Male,Great,Great,2154,11,Great,Great,80,Good,4
+922,44,Stayed,4,College,Life Sciences,Great,Male,Excellent,Low,19190,14,Great,Excellent,80,Good,25
+923,34,Stayed,11,Bachelor's degree,Life Sciences,Great,Male,Good,Good,4490,11,Great,Excellent,80,Excellent,10
+924,35,Stayed,6,Below College,Life Sciences,Great,Male,Great,Great,3506,14,Great,Excellent,80,Great,3
+925,42,Stayed,7,Master's degree,Medical,Good,Female,Excellent,Good,2372,16,Great,Excellent,80,Great,1
+926,43,Stayed,4,Master's degree,Marketing,Excellent,Female,Good,Excellent,10231,14,Great,Excellent,80,Excellent,21
+927,36,Stayed,2,Master's degree,Life Sciences,Great,Female,Great,Good,5410,11,Great,Excellent,80,Great,16
+928,44,Churned,15,Bachelor's degree,Medical,Low,Female,Great,Excellent,7978,11,Great,Excellent,80,Great,10
+929,28,Stayed,2,Bachelor's degree,Life Sciences,Excellent,Male,Good,Excellent,3867,12,Great,Good,80,Great,2
+930,51,Stayed,6,College,Medical,Good,Female,Good,Great,2838,14,Great,Good,80,Good,7
+931,30,Stayed,9,College,Medical,Great,Female,Great,Great,4695,18,Great,Great,80,Great,8
+932,29,Churned,7,Bachelor's degree,Technical Degree,Good,Female,Great,Great,3339,13,Great,Low,80,Great,7
+933,28,Stayed,1,Bachelor's degree,Technical Degree,Excellent,Male,Great,Low,2080,11,Great,Good,80,Good,3
+934,25,Stayed,1,Bachelor's degree,Medical,Excellent,Female,Great,Good,2096,18,Great,Excellent,80,Good,2
+935,32,Stayed,8,Bachelor's degree,Medical,Great,Male,Excellent,Excellent,6209,15,Great,Great,80,Excellent,10
+936,45,Stayed,25,Bachelor's degree,Medical,Good,Female,Great,Good,18061,22,Excellent,Great,80,Great,0
+937,39,Stayed,13,Master's degree,Medical,Great,Female,Good,Good,17123,13,Great,Excellent,80,Great,19
+938,58,Stayed,23,Master's degree,Life Sciences,Low,Male,Great,Great,2372,12,Great,Excellent,80,Great,2
+939,32,Churned,7,College,Life Sciences,Excellent,Male,Great,Great,4883,18,Great,Low,80,Great,10
+940,39,Churned,23,Bachelor's degree,Medical,Great,Male,Great,Low,3904,13,Great,Low,80,Great,5
+941,30,Stayed,6,Bachelor's degree,Technical Degree,Low,Female,Good,Excellent,4627,12,Great,Low,80,Great,9
+942,36,Stayed,10,Master's degree,Technical Degree,Excellent,Female,Great,Great,7094,12,Great,Low,80,Great,7
+943,46,Stayed,1,College,Life Sciences,Excellent,Female,Great,Low,3423,12,Great,Great,80,Excellent,7
+944,28,Stayed,1,Bachelor's degree,Life Sciences,Great,Female,Low,Excellent,6674,11,Great,Low,80,Great,9
+945,50,Stayed,28,Bachelor's degree,Life Sciences,Excellent,Female,Great,Low,16880,11,Great,Good,80,Great,3
+946,40,Churned,25,Master's degree,Marketing,Excellent,Male,Good,Good,9094,12,Great,Great,80,Great,5
+947,52,Churned,5,Bachelor's degree,Life Sciences,Good,Male,Great,Good,8446,19,Great,Great,80,Good,8
+948,30,Stayed,17,Master's degree,Medical,Good,Female,Great,Low,11916,23,Excellent,Excellent,80,Great,9
+949,39,Stayed,18,College,Life Sciences,Low,Male,Great,Great,4534,11,Great,Low,80,Great,8
+950,31,Stayed,2,Master's degree,Life Sciences,Excellent,Female,Great,Great,9852,19,Great,Low,80,Good,10
+951,41,Stayed,10,College,Medical,Great,Male,Low,Good,6151,13,Great,Low,80,Great,19
+952,31,Churned,1,Bachelor's degree,Life Sciences,Excellent,Female,Great,Good,2302,11,Great,Low,80,Excellent,3
+953,44,Churned,3,Bachelor's degree,Life Sciences,Low,Male,Great,Low,2362,12,Great,Great,80,Excellent,3
+954,42,Stayed,2,Below College,Life Sciences,Great,Male,Great,Great,17861,13,Great,Excellent,80,Good,20
+955,55,Stayed,2,College,Medical,Excellent,Female,Low,Great,19187,14,Great,Excellent,80,Great,19
+956,56,Stayed,8,Master's degree,Life Sciences,Excellent,Male,Great,Good,19717,14,Great,Low,80,Great,7
+957,40,Stayed,16,College,Life Sciences,Great,Male,Great,Great,3544,16,Great,Good,80,Great,4
+958,34,Stayed,9,Bachelor's degree,Life Sciences,Excellent,Male,Great,Excellent,8500,11,Great,Excellent,80,Good,9
+959,40,Stayed,2,Bachelor's degree,Life Sciences,Great,Male,Great,Excellent,4661,13,Great,Great,80,Great,9
+960,41,Stayed,1,Bachelor's degree,Marketing,Great,Female,Great,Low,4103,17,Great,Excellent,80,Great,9
+961,35,Stayed,4,Master's degree,Life Sciences,Great,Male,Great,Great,4249,11,Great,Good,80,Great,9
+962,51,Stayed,5,Bachelor's degree,Life Sciences,Great,Male,Great,Good,14026,11,Great,Good,80,Great,33
+963,38,Stayed,2,College,Life Sciences,Good,Female,Great,Low,6893,15,Great,Excellent,80,Great,7
+964,34,Stayed,15,College,Medical,Great,Female,Great,Low,6125,12,Great,Excellent,80,Excellent,10
+965,25,Stayed,19,Below College,Medical,Excellent,Male,Great,Excellent,3669,11,Great,Great,80,Good,3
+966,58,Churned,7,Master's degree,Medical,Great,Female,Good,Low,10008,14,Great,Excellent,80,Good,10
+967,40,Stayed,1,Master's degree,Life Sciences,Good,Male,Great,Good,2387,22,Excellent,Great,80,Great,4
+968,36,Stayed,7,Bachelor's degree,Marketing,Low,Female,Excellent,Low,4639,16,Great,Excellent,80,Good,15
+969,48,Stayed,4,Bachelor's degree,Life Sciences,Excellent,Male,Great,Excellent,7898,11,Great,Great,80,Great,10
+970,27,Stayed,11,Bachelor's degree,Medical,Great,Female,Excellent,Excellent,2534,14,Great,Good,80,Great,1
+971,51,Stayed,11,College,Technical Degree,Excellent,Female,Good,Good,13142,16,Great,Good,80,Good,5
+972,18,Stayed,1,Bachelor's degree,Life Sciences,Excellent,Female,Great,Excellent,1611,15,Great,Great,80,Excellent,0
+973,35,Stayed,1,Bachelor's degree,Medical,Excellent,Female,Good,Excellent,5363,12,Great,Good,80,Great,9
+974,27,Stayed,2,Below College,Life Sciences,Excellent,Male,Low,Excellent,5071,20,Excellent,Good,80,Great,6
+975,55,Churned,13,Master's degree,Marketing,Low,Male,Excellent,Great,13695,17,Great,Great,80,Good,19
+976,56,Stayed,23,Bachelor's degree,Life Sciences,Excellent,Male,Great,Good,13402,12,Great,Low,80,Great,19
+977,34,Stayed,26,Below College,Technical Degree,Low,Female,Good,Great,2029,20,Excellent,Great,80,Great,5
+978,40,Stayed,2,Below College,Medical,Good,Female,Excellent,Great,6377,20,Excellent,Good,80,Great,12
+979,34,Stayed,29,Bachelor's degree,Medical,Good,Male,Great,Great,5429,13,Great,Low,80,Great,8
+980,31,Churned,2,Bachelor's degree,Life Sciences,Great,Female,Good,Excellent,2785,14,Great,Great,80,Excellent,1
+981,35,Churned,18,Master's degree,Marketing,Excellent,Female,Great,Great,4614,18,Great,Great,80,Good,4
+982,38,Stayed,7,Bachelor's degree,Life Sciences,Excellent,Male,Excellent,Great,2610,11,Great,Excellent,80,Great,4
+983,34,Stayed,2,Master's degree,Technical Degree,Great,Female,Great,Excellent,6687,11,Great,Excellent,80,Excellent,14
+984,28,Stayed,26,Bachelor's degree,Life Sciences,Great,Male,Good,Low,4724,11,Great,Great,80,Great,5
+985,31,Churned,22,Master's degree,Medical,Excellent,Male,Great,Great,6179,15,Great,Excellent,80,Good,10
+986,39,Stayed,21,Master's degree,Life Sciences,Low,Male,Good,Excellent,6120,12,Great,Excellent,80,Excellent,5
+987,51,Stayed,2,Bachelor's degree,Marketing,Good,Male,Great,Good,10596,11,Great,Good,80,Great,4
+988,41,Stayed,22,Bachelor's degree,Life Sciences,Excellent,Female,Great,Excellent,5467,14,Great,Low,80,Good,6
+989,37,Stayed,4,Below College,Life Sciences,Great,Male,Great,Great,2996,15,Great,Excellent,80,Great,6
+990,33,Stayed,5,Below College,Life Sciences,Good,Male,Great,Excellent,9998,13,Great,Low,80,Excellent,5
+991,32,Stayed,2,Below College,Marketing,Great,Male,Great,Good,4078,13,Great,Low,80,Good,3
+992,39,Stayed,25,College,Life Sciences,Great,Male,Great,Great,10920,21,Excellent,Good,80,Great,6
+993,25,Stayed,18,Below College,Life Sciences,Low,Male,Excellent,Great,6232,11,Great,Good,80,Good,3
+994,52,Stayed,28,College,Medical,Excellent,Female,Excellent,Great,13247,11,Great,Good,80,Good,5
+995,43,Stayed,6,Bachelor's degree,Medical,Low,Female,Good,Great,4081,14,Great,Low,80,Low,20
+996,27,Stayed,10,Bachelor's degree,Marketing,Excellent,Female,Good,Excellent,5769,11,Great,Excellent,80,Great,6
+997,27,Churned,17,Master's degree,Life Sciences,Excellent,Female,Great,Great,2394,13,Great,Excellent,80,Great,8
+998,26,Stayed,2,Below College,Medical,Low,Male,Good,Excellent,3904,12,Great,Excellent,80,Great,4
+999,42,Stayed,10,Bachelor's degree,Human Resources,Great,Female,Great,Low,16799,14,Great,Great,80,Great,20
+1000,52,Stayed,8,Master's degree,Other,Great,Female,Great,Low,2950,13,Great,Great,80,Low,5
+1001,37,Stayed,11,Bachelor's degree,Medical,Low,Female,Great,Great,3629,18,Great,Low,80,Great,3
+1002,35,Stayed,18,College,Life Sciences,Great,Male,Great,Excellent,9362,11,Great,Great,80,Great,2
+1003,25,Stayed,1,Bachelor's degree,Technical Degree,Low,Male,Great,Excellent,3229,11,Great,Good,80,Good,3
+1004,26,Stayed,7,Bachelor's degree,Other,Great,Male,Excellent,Low,3578,12,Great,Excellent,80,Great,7
+1005,29,Stayed,17,Bachelor's degree,Other,Good,Male,Good,Low,7988,13,Great,Low,80,Good,10
+1006,49,Churned,28,College,Life Sciences,Low,Male,Good,Low,4284,20,Excellent,Low,80,Great,4
+1007,29,Churned,14,Below College,Other,Great,Female,Great,Excellent,7553,12,Great,Low,80,Great,8
+1008,54,Stayed,1,Bachelor's degree,Medical,Excellent,Female,Great,Excellent,17328,19,Great,Excellent,80,Good,20
+1009,58,Stayed,1,Bachelor's degree,Medical,Excellent,Female,Great,Low,19701,21,Excellent,Great,80,Great,9
+1010,55,Stayed,1,Master's degree,Medical,Good,Male,Excellent,Excellent,14732,13,Great,Excellent,80,Excellent,7
+1011,36,Stayed,3,Master's degree,Marketing,Low,Female,Great,Good,9278,16,Great,Excellent,80,Great,5
+1012,31,Churned,1,Master's degree,Life Sciences,Good,Female,Low,Great,1359,12,Great,Good,80,Great,1
+1013,30,Stayed,7,Master's degree,Marketing,Excellent,Female,Great,Low,4779,14,Great,Good,80,Great,3
+1014,31,Stayed,8,PhD,Life Sciences,Low,Female,Great,Good,16422,11,Great,Great,80,Excellent,3
+1015,34,Stayed,1,Master's degree,Other,Excellent,Male,Great,Low,2996,14,Great,Great,80,Great,4
+1016,31,Churned,8,Bachelor's degree,Life Sciences,Low,Female,Good,Good,1261,12,Great,Great,80,Excellent,1
+1017,27,Stayed,11,Below College,Life Sciences,Good,Male,Great,Low,2099,14,Great,Good,80,Excellent,5
+1018,36,Stayed,4,Master's degree,Life Sciences,Low,Male,Good,Excellent,5810,16,Great,Great,80,Good,10
+1019,36,Stayed,16,Master's degree,Marketing,Great,Female,Good,Low,5647,13,Great,Low,80,Good,3
+1020,47,Stayed,1,Bachelor's degree,Technical Degree,Low,Male,Great,Excellent,3420,12,Great,Great,80,Good,6
+1021,25,Churned,9,College,Life Sciences,Low,Male,Good,Low,4400,12,Great,Low,80,Great,3
+1022,37,Stayed,5,College,Technical Degree,Great,Male,Excellent,Great,3500,14,Great,Low,80,Low,6
+1023,56,Stayed,1,College,Life Sciences,Low,Female,Great,Low,2066,22,Excellent,Excellent,80,Excellent,3
+1024,47,Stayed,2,Master's degree,Medical,Low,Female,Great,Great,17169,19,Great,Good,80,Excellent,20
+1025,24,Stayed,4,Below College,Medical,Excellent,Female,Great,Great,4162,12,Great,Great,80,Great,5
+1026,32,Stayed,7,PhD,Marketing,Excellent,Male,Great,Excellent,9204,12,Great,Great,80,Good,4
+1027,34,Stayed,1,Bachelor's degree,Life Sciences,Excellent,Female,Good,Good,3294,17,Great,Low,80,Good,5
+1028,41,Stayed,5,PhD,Medical,Good,Male,Excellent,Great,2127,12,Great,Low,80,Good,4
+1029,40,Stayed,9,Master's degree,Other,Great,Male,Great,Great,3975,11,Great,Great,80,Excellent,8
+1030,31,Stayed,8,College,Life Sciences,Low,Male,Great,Excellent,10793,18,Great,Low,80,Great,13
+1031,46,Churned,9,Bachelor's degree,Marketing,Low,Male,Great,Excellent,10096,11,Great,Low,80,Excellent,7
+1032,39,Churned,2,Bachelor's degree,Life Sciences,Low,Female,Good,Low,3646,23,Excellent,Good,80,Excellent,1
+1033,31,Churned,1,PhD,Life Sciences,Great,Female,Excellent,Good,7446,11,Great,Low,80,Great,10
+1034,45,Stayed,20,Bachelor's degree,Medical,Good,Male,Low,Low,10851,18,Great,Good,80,Great,7
+1035,31,Stayed,8,College,Medical,Excellent,Female,Excellent,Good,2109,18,Great,Excellent,80,Great,3
+1036,31,Churned,2,Bachelor's degree,Life Sciences,Good,Male,Great,Excellent,3722,13,Great,Great,80,Low,2
+1037,45,Stayed,29,Bachelor's degree,Technical Degree,Good,Male,Great,Excellent,9380,18,Great,Excellent,80,Excellent,3
+1038,48,Stayed,7,Bachelor's degree,Marketing,Great,Male,Great,Low,5486,11,Great,Low,80,Great,2
+1039,34,Churned,9,Master's degree,Technical Degree,Low,Female,Great,Great,2742,15,Great,Excellent,80,Great,2
+1040,40,Stayed,8,Below College,Medical,Excellent,Male,Good,Good,13757,11,Great,Great,80,Great,9
+1041,28,Stayed,5,Bachelor's degree,Medical,Excellent,Male,Great,Low,8463,18,Great,Excellent,80,Great,5
+1042,44,Stayed,5,Bachelor's degree,Life Sciences,Great,Male,Good,Great,3162,14,Great,Excellent,80,Great,5
+1043,53,Stayed,2,Bachelor's degree,Medical,Excellent,Male,Excellent,Good,16598,12,Great,Good,80,Good,9
+1044,49,Stayed,5,Master's degree,Technical Degree,Low,Male,Great,Great,6651,14,Great,Good,80,Good,3
+1045,40,Stayed,2,Bachelor's degree,Medical,Great,Male,Great,Great,2345,14,Great,Great,80,Excellent,3
+1046,44,Stayed,20,Bachelor's degree,Life Sciences,Excellent,Male,Great,Good,3420,13,Great,Great,80,Good,5
+1047,33,Stayed,7,Bachelor's degree,Medical,Excellent,Male,Great,Low,4373,14,Great,Low,80,Great,4
+1048,34,Stayed,3,Bachelor's degree,Other,Excellent,Male,Low,Low,4759,18,Great,Excellent,80,Great,13
+1049,30,Stayed,16,Below College,Life Sciences,Excellent,Male,Great,Great,5301,15,Great,Great,80,Good,2
+1050,42,Stayed,9,College,Medical,Low,Female,Great,Excellent,3673,13,Great,Great,80,Great,12
+1051,44,Stayed,1,PhD,Marketing,Low,Female,Great,Great,4768,12,Great,Great,80,Good,1
+1052,30,Stayed,7,Bachelor's degree,Technical Degree,Great,Male,Great,Great,1274,13,Great,Good,80,Good,1
+1053,57,Stayed,1,College,Life Sciences,Good,Male,Excellent,Great,4900,24,Excellent,Low,80,Good,12
+1054,49,Stayed,7,Master's degree,Life Sciences,Great,Male,Great,Good,10466,14,Great,Good,80,Great,8
+1055,34,Stayed,15,Bachelor's degree,Medical,Good,Male,Great,Low,17007,14,Great,Excellent,80,Good,14
+1056,28,Churned,1,Bachelor's degree,Technical Degree,Low,Male,Great,Great,2909,15,Great,Excellent,80,Excellent,3
+1057,29,Churned,13,Bachelor's degree,Technical Degree,Low,Female,Great,Good,5765,11,Great,Low,80,Low,5
+1058,34,Churned,24,Master's degree,Medical,Low,Female,Good,Good,4599,23,Excellent,Great,80,Excellent,15
+1059,35,Stayed,7,Below College,Life Sciences,Excellent,Male,Great,Great,2404,13,Great,Low,80,Great,1
+1060,24,Churned,9,Bachelor's degree,Medical,Good,Male,Great,Low,3172,11,Great,Great,80,Good,0
+1061,24,Stayed,13,College,Life Sciences,Excellent,Female,Great,Good,2033,13,Great,Great,80,Great,1
+1062,44,Stayed,2,Below College,Medical,Good,Male,Great,Great,10209,18,Great,Good,80,Good,2
+1063,29,Stayed,19,Bachelor's degree,Life Sciences,Great,Male,Good,Great,8620,14,Great,Great,80,Great,10
+1064,30,Stayed,1,Bachelor's degree,Life Sciences,Great,Male,Great,Great,2064,21,Excellent,Low,80,Excellent,5
+1065,55,Stayed,4,Master's degree,Life Sciences,Excellent,Male,Great,Great,4035,16,Great,Good,80,Great,3
+1066,33,Stayed,4,Master's degree,Medical,Low,Female,Good,Good,3838,11,Great,Excellent,80,Great,5
+1067,47,Stayed,14,Bachelor's degree,Medical,Great,Female,Great,Great,4591,17,Great,Great,80,Good,5
+1068,28,Churned,2,College,Medical,Great,Male,Good,Low,2561,11,Great,Great,80,Good,0
+1069,28,Stayed,1,Bachelor's degree,Life Sciences,Low,Male,Good,Great,1563,14,Great,Excellent,80,Low,1
+1070,28,Stayed,7,Bachelor's degree,Life Sciences,Great,Male,Great,Low,4898,14,Great,Excellent,80,Great,4
+1071,49,Stayed,3,College,Medical,Great,Female,Good,Low,4789,25,Excellent,Low,80,Great,3
+1072,29,Stayed,2,Below College,Life Sciences,Excellent,Female,Great,Good,3180,13,Great,Great,80,Great,3
+1073,28,Stayed,29,Below College,Life Sciences,Great,Male,Low,Good,6549,14,Great,Good,80,Good,8
+1074,33,Stayed,8,PhD,Life Sciences,Excellent,Male,Great,Great,6388,17,Great,Low,80,Great,0
+1075,32,Stayed,10,Bachelor's degree,Medical,Great,Male,Great,Excellent,11244,25,Excellent,Good,80,Excellent,5
+1076,54,Stayed,11,Master's degree,Medical,Good,Female,Great,Excellent,16032,20,Excellent,Low,80,Great,14
+1077,29,Churned,1,Master's degree,Technical Degree,Low,Male,Good,Low,2362,13,Great,Great,80,Low,9
+1078,44,Stayed,28,Bachelor's degree,Life Sciences,Excellent,Male,Great,Low,16328,13,Great,Great,80,Excellent,20
+1079,39,Stayed,6,Bachelor's degree,Life Sciences,Good,Female,Great,Good,8376,18,Great,Excellent,80,Great,2
+1080,46,Stayed,3,Bachelor's degree,Life Sciences,Great,Female,Great,Good,16606,12,Great,Excellent,80,Excellent,13
+1081,35,Stayed,16,Bachelor's degree,Life Sciences,Excellent,Female,Good,Good,8606,19,Great,Excellent,80,Low,11
+1082,23,Stayed,20,Below College,Life Sciences,Low,Male,Great,Great,2272,14,Great,Good,80,Great,4
+1083,40,Churned,9,Master's degree,Life Sciences,Excellent,Male,Great,Low,2018,14,Great,Good,80,Low,5
+1084,34,Stayed,1,Bachelor's degree,Technical Degree,Excellent,Male,Good,Great,7083,14,Great,Excellent,80,Great,10
+1085,31,Churned,3,Bachelor's degree,Life Sciences,Excellent,Female,Great,Great,4084,12,Great,Low,80,Low,7
+1086,50,Stayed,22,PhD,Medical,Great,Male,Low,Excellent,14411,13,Great,Excellent,80,Great,32
+1087,34,Stayed,7,College,Technical Degree,Good,Male,Great,Great,2308,25,Excellent,Good,80,Great,11
+1088,42,Stayed,2,Bachelor's degree,Medical,Great,Male,Good,Good,4841,14,Great,Good,80,Great,1
+1089,37,Stayed,13,Bachelor's degree,Medical,Low,Male,Great,Excellent,4285,17,Great,Low,80,Great,10
+1090,29,Stayed,8,Below College,Other,Great,Female,Low,Low,9715,13,Great,Great,80,Great,7
+1091,33,Stayed,25,Bachelor's degree,Life Sciences,Excellent,Male,Good,Good,4320,13,Great,Excellent,80,Great,5
+1092,45,Stayed,28,Bachelor's degree,Technical Degree,Excellent,Male,Great,Excellent,2132,20,Excellent,Excellent,80,Great,5
+1093,42,Stayed,2,Bachelor's degree,Life Sciences,Excellent,Male,Great,Excellent,10124,14,Great,Great,80,Low,20
+1094,40,Stayed,9,College,Medical,Low,Male,Great,Low,5473,12,Great,Excellent,80,Excellent,8
+1095,33,Stayed,28,Master's degree,Life Sciences,Good,Male,Great,Great,5207,12,Great,Good,80,Great,15
+1096,40,Stayed,6,College,Medical,Great,Male,Great,Excellent,16437,21,Excellent,Excellent,80,Great,21
+1097,24,Stayed,21,College,Technical Degree,Great,Male,Good,Low,2296,14,Great,Good,80,Great,1
+1098,40,Stayed,8,College,Life Sciences,Excellent,Male,Great,Excellent,4069,18,Great,Great,80,Great,2
+1099,45,Stayed,1,Master's degree,Technical Degree,Low,Male,Great,Good,7441,12,Great,Low,80,Great,10
+1100,35,Stayed,28,Master's degree,Life Sciences,Good,Female,Good,Great,2430,23,Excellent,Low,80,Great,5
+1101,32,Stayed,5,College,Life Sciences,Excellent,Female,Good,Good,5878,12,Great,Low,80,Great,7
+1102,36,Stayed,2,Master's degree,Life Sciences,Great,Male,Great,Excellent,2644,21,Excellent,Excellent,80,Good,3
+1103,48,Stayed,16,Master's degree,Life Sciences,Great,Female,Great,Great,6439,14,Great,Great,80,Great,8
+1104,29,Stayed,9,Bachelor's degree,Life Sciences,Great,Male,Excellent,Great,2451,18,Great,Low,80,Good,1
+1105,33,Stayed,8,Master's degree,Life Sciences,Low,Male,Great,Low,6392,13,Great,Excellent,80,Low,2
+1106,30,Churned,1,Bachelor's degree,Life Sciences,Good,Male,Good,Low,9714,11,Great,Excellent,80,Great,10
+1107,38,Stayed,10,Master's degree,Human Resources,Great,Male,Great,Great,6077,11,Great,Great,80,Great,6
+1108,35,Stayed,1,Bachelor's degree,Medical,Excellent,Male,Good,Low,2450,19,Great,Good,80,Great,3
+1109,30,Stayed,29,Master's degree,Technical Degree,Great,Male,Great,Good,9250,12,Great,Good,80,Great,4
+1110,35,Churned,2,Bachelor's degree,Life Sciences,Low,Female,Great,Low,2074,12,Great,Excellent,80,Great,1
+1111,53,Churned,2,PhD,Technical Degree,Great,Female,Good,Excellent,10169,16,Great,Good,80,Great,33
+1112,38,Churned,2,Bachelor's degree,Medical,Great,Male,Great,Good,4855,11,Great,Low,80,Great,5
+1113,32,Stayed,1,Master's degree,Technical Degree,Excellent,Male,Great,Low,4087,14,Great,Good,80,Good,6
+1114,48,Stayed,15,Master's degree,Other,Great,Female,Great,Low,2367,12,Great,Excellent,80,Good,8
+1115,34,Stayed,7,Master's degree,Medical,Low,Male,Great,Excellent,2972,13,Great,Great,80,Low,1
+1116,55,Stayed,26,PhD,Marketing,Great,Male,Good,Excellent,19586,21,Excellent,Great,80,Great,36
+1117,34,Stayed,1,Master's degree,Life Sciences,Good,Male,Great,Excellent,5484,17,Great,Good,80,Good,2
+1118,26,Stayed,3,Bachelor's degree,Life Sciences,Low,Female,Great,Excellent,2061,21,Excellent,Low,80,Great,1
+1119,38,Stayed,14,Bachelor's degree,Life Sciences,Great,Male,Great,Good,9924,11,Great,Excellent,80,Great,9
+1120,38,Stayed,16,Bachelor's degree,Life Sciences,Good,Female,Great,Good,4198,12,Great,Good,80,Excellent,3
+1121,36,Stayed,1,Master's degree,Life Sciences,Good,Female,Great,Great,6815,13,Great,Low,80,Great,1
+1122,29,Stayed,3,Below College,Medical,Good,Male,Great,Low,4723,18,Great,Excellent,80,Great,10
+1123,35,Stayed,10,Master's degree,Medical,Low,Female,Great,Great,6142,16,Great,Great,80,Great,5
+1124,39,Stayed,6,Bachelor's degree,Medical,Excellent,Male,Excellent,Great,8237,11,Great,Low,80,Great,7
+1125,29,Stayed,2,Below College,Life Sciences,Low,Male,Great,Excellent,8853,19,Great,Excellent,80,Excellent,6
+1126,50,Stayed,9,Bachelor's degree,Marketing,Great,Male,Great,Great,19331,16,Great,Great,80,Great,1
+1127,23,Stayed,10,Bachelor's degree,Technical Degree,Excellent,Male,Excellent,Great,2073,16,Great,Excellent,80,Great,2
+1128,36,Stayed,6,Master's degree,Life Sciences,Low,Male,Excellent,Low,5562,13,Great,Excellent,80,Great,3
+1129,42,Stayed,9,College,Other,Excellent,Male,Good,Excellent,19613,22,Excellent,Excellent,80,Great,1
+1130,35,Stayed,28,Bachelor's degree,Life Sciences,Good,Male,Excellent,Great,3407,17,Great,Excellent,80,Good,10
+1131,34,Stayed,10,Master's degree,Technical Degree,Excellent,Male,Good,Great,5063,14,Great,Good,80,Good,8
+1132,40,Stayed,14,College,Life Sciences,Excellent,Female,Great,Low,4639,15,Great,Great,80,Great,5
+1133,43,Stayed,27,Bachelor's degree,Technical Degree,Excellent,Male,Excellent,Good,4876,12,Great,Great,80,Great,6
+1134,35,Stayed,7,College,Life Sciences,Great,Male,Good,Excellent,2690,18,Great,Excellent,80,Good,1
+1135,46,Stayed,1,Master's degree,Life Sciences,Excellent,Male,Excellent,Low,17567,15,Great,Good,80,Low,26
+1136,28,Churned,24,Bachelor's degree,Medical,Great,Male,Great,Good,2408,17,Great,Great,80,Great,1
+1137,22,Stayed,26,College,Other,Good,Female,Good,Great,2814,14,Great,Good,80,Good,4
+1138,50,Stayed,20,PhD,Medical,Good,Male,Great,Great,11245,15,Great,Great,80,Great,30
+1139,32,Stayed,5,Master's degree,Other,Good,Female,Excellent,Excellent,3312,17,Great,Excellent,80,Great,3
+1140,44,Stayed,7,Bachelor's degree,Medical,Good,Female,Great,Excellent,19049,14,Great,Excellent,80,Good,22
+1141,30,Stayed,7,Bachelor's degree,Medical,Good,Male,Good,Good,2141,12,Great,Good,80,Good,6
+1142,45,Stayed,5,PhD,Medical,Great,Female,Low,Low,5769,14,Great,Low,80,Great,10
+1143,45,Stayed,26,Bachelor's degree,Marketing,Low,Male,Good,Low,4385,15,Great,Low,80,Great,10
+1144,31,Stayed,2,Master's degree,Other,Excellent,Male,Great,Low,5332,13,Great,Excellent,80,Great,5
+1145,36,Stayed,12,Master's degree,Life Sciences,Great,Female,Great,Great,4663,12,Great,Good,80,Great,3
+1146,34,Stayed,10,Master's degree,Life Sciences,Great,Male,Excellent,Excellent,4724,13,Great,Low,80,Great,9
+1147,49,Stayed,25,Master's degree,Life Sciences,Great,Female,Great,Low,3211,14,Great,Excellent,80,Good,9
+1148,39,Stayed,10,PhD,Medical,Good,Male,Great,Low,5377,13,Great,Excellent,80,Great,7
+1149,27,Stayed,19,Bachelor's degree,Other,Excellent,Male,Good,Low,4066,11,Great,Low,80,Great,7
+1150,35,Stayed,18,PhD,Life Sciences,Good,Male,Excellent,Low,5208,11,Great,Excellent,80,Great,16
+1151,28,Stayed,27,Bachelor's degree,Medical,Good,Female,Low,Low,4877,21,Excellent,Good,80,Good,5
+1152,21,Stayed,5,Below College,Medical,Great,Male,Great,Excellent,3117,18,Great,Great,80,Great,2
+1153,18,Churned,3,College,Medical,Good,Female,Great,Excellent,1569,12,Great,Great,80,Excellent,0
+1154,47,Stayed,26,Master's degree,Life Sciences,Excellent,Female,Great,Great,19658,11,Great,Great,80,Great,5
+1155,39,Stayed,3,College,Medical,Great,Male,Good,Great,3069,15,Great,Excellent,80,Great,10
+1156,40,Stayed,15,Bachelor's degree,Life Sciences,Low,Female,Good,Great,10435,13,Great,Excellent,80,Great,18
+1157,35,Stayed,8,Master's degree,Life Sciences,Great,Female,Great,Great,4148,12,Great,Excellent,80,Great,14
+1158,37,Stayed,19,Bachelor's degree,Life Sciences,Great,Male,Great,Great,5768,17,Great,Low,80,Good,4
+1159,39,Stayed,4,Bachelor's degree,Medical,Low,Female,Great,Great,5042,13,Great,Excellent,80,Low,9
+1160,45,Stayed,2,College,Other,Excellent,Female,Good,Excellent,5770,19,Great,Low,80,Great,10
+1161,38,Stayed,2,College,Medical,Excellent,Female,Good,Great,7756,19,Great,Excellent,80,Excellent,5
+1162,35,Churned,10,Bachelor's degree,Medical,Excellent,Male,Good,Low,10306,17,Great,Great,80,Great,13
+1163,37,Stayed,10,Bachelor's degree,Medical,Good,Female,Great,Good,3936,11,Great,Low,80,Low,8
+1164,40,Stayed,16,Bachelor's degree,Life Sciences,Great,Female,Great,Excellent,7945,15,Great,Excellent,80,Good,4
+1165,44,Stayed,1,PhD,Human Resources,Low,Male,Great,Excellent,5743,11,Great,Great,80,Great,10
+1166,48,Stayed,4,PhD,Medical,Great,Male,Good,Excellent,15202,25,Excellent,Good,80,Great,2
+1167,35,Churned,15,College,Medical,Low,Male,Low,Excellent,5440,14,Great,Excellent,80,Good,2
+1168,24,Stayed,2,Below College,Technical Degree,Low,Female,Great,Excellent,3760,13,Great,Great,80,Great,6
+1169,27,Stayed,8,Bachelor's degree,Medical,Good,Female,Excellent,Great,3517,17,Great,Low,80,Great,3
+1170,27,Stayed,2,Bachelor's degree,Medical,Excellent,Male,Great,Excellent,2580,13,Great,Great,80,Good,4
+1171,40,Churned,7,Bachelor's degree,Life Sciences,Low,Male,Great,Low,2166,14,Great,Good,80,Low,4
+1172,29,Stayed,10,Bachelor's degree,Medical,Great,Male,Good,Great,5869,11,Great,Great,80,Great,5
+1173,36,Stayed,5,Master's degree,Life Sciences,Good,Female,Great,Low,8008,12,Great,Great,80,Great,3
+1174,25,Stayed,2,Below College,Life Sciences,Excellent,Male,Excellent,Great,5206,17,Great,Great,80,Great,7
+1175,39,Stayed,12,Bachelor's degree,Medical,Excellent,Male,Great,Good,5295,21,Excellent,Great,80,Great,5
+1176,49,Stayed,22,Master's degree,Other,Low,Female,Great,Good,16413,16,Great,Good,80,Great,4
+1177,50,Stayed,17,PhD,Life Sciences,Excellent,Female,Good,Low,13269,15,Great,Great,80,Great,14
+1178,20,Stayed,2,Bachelor's degree,Medical,Great,Female,Great,Great,2783,19,Great,Low,80,Great,2
+1179,34,Stayed,3,Bachelor's degree,Life Sciences,Excellent,Female,Great,Good,5433,12,Great,Great,80,Great,11
+1180,36,Stayed,7,Bachelor's degree,Life Sciences,Low,Male,Great,Good,2013,11,Great,Great,80,Great,4
+1181,49,Stayed,6,Below College,Life Sciences,Great,Female,Good,Great,13966,19,Great,Good,80,Great,15
+1182,36,Stayed,1,Master's degree,Medical,Excellent,Female,Good,Great,4374,15,Great,Great,80,Great,3
+1183,36,Stayed,3,College,Life Sciences,Excellent,Male,Excellent,Low,6842,20,Excellent,Low,80,Great,5
+1184,54,Stayed,22,PhD,Medical,Good,Female,Great,Great,17426,25,Excellent,Great,80,Great,10
+1185,43,Stayed,15,College,Life Sciences,Great,Male,Good,Great,17603,24,Excellent,Low,80,Great,14
+1186,35,Churned,12,Master's degree,Other,Excellent,Male,Great,Excellent,4581,24,Excellent,Low,80,Excellent,11
+1187,38,Stayed,1,Bachelor's degree,Life Sciences,Excellent,Male,Great,Excellent,4735,15,Great,Excellent,80,Excellent,13
+1188,29,Stayed,5,Bachelor's degree,Medical,Low,Male,Good,Good,4187,13,Great,Good,80,Good,10
+1189,33,Stayed,2,Master's degree,Medical,Excellent,Male,Great,Excellent,5505,14,Great,Great,80,Great,6
+1190,32,Stayed,2,Bachelor's degree,Medical,Excellent,Male,Great,Good,5470,13,Great,Great,80,Good,9
+1191,31,Stayed,5,Master's degree,Life Sciences,Low,Female,Great,Excellent,5476,11,Great,Low,80,Great,10
+1192,49,Stayed,16,Bachelor's degree,Medical,Excellent,Female,Great,Low,2587,16,Great,Good,80,Good,2
+1193,38,Stayed,2,Bachelor's degree,Medical,Excellent,Female,Good,Good,2440,22,Excellent,Good,80,Great,4
+1194,47,Stayed,2,Master's degree,Life Sciences,Good,Female,Excellent,Good,15972,14,Great,Great,80,Great,3
+1195,49,Stayed,1,Bachelor's degree,Life Sciences,Great,Male,Great,Great,15379,14,Great,Low,80,Great,8
+1196,41,Stayed,23,College,Life Sciences,Excellent,Male,Great,Great,7082,16,Great,Excellent,80,Great,2
+1197,20,Stayed,9,Below College,Life Sciences,Excellent,Male,Great,Low,2728,11,Great,Low,80,Great,2
+1198,33,Stayed,16,Bachelor's degree,Life Sciences,Great,Female,Great,Excellent,5368,25,Excellent,Great,80,Great,6
+1199,36,Stayed,26,Master's degree,Life Sciences,Low,Male,Great,Great,5347,14,Great,Good,80,Good,3
+1200,44,Stayed,1,Bachelor's degree,Life Sciences,Great,Female,Great,Excellent,3195,18,Great,Low,80,Great,2
+1201,23,Churned,8,Below College,Medical,Excellent,Male,Good,Great,3989,11,Great,Low,80,Great,5
+1202,38,Stayed,4,College,Medical,Excellent,Female,Great,Great,3306,19,Great,Excellent,80,Good,0
+1203,53,Stayed,24,Master's degree,Medical,Good,Male,Excellent,Excellent,7005,15,Great,Great,80,Great,4
+1204,48,Churned,7,College,Medical,Excellent,Female,Great,Great,2655,11,Great,Great,80,Great,9
+1205,32,Churned,2,Master's degree,Life Sciences,Excellent,Male,Great,Good,1393,12,Great,Low,80,Great,1
+1206,26,Stayed,7,Bachelor's degree,Medical,Excellent,Male,Great,Excellent,2570,20,Excellent,Great,80,Great,7
+1207,55,Stayed,22,Bachelor's degree,Technical Degree,Low,Male,Good,Good,3537,12,Great,Excellent,80,Great,4
+1208,34,Stayed,5,College,Medical,Good,Male,Good,Excellent,3986,14,Great,Great,80,Excellent,15
+1209,60,Stayed,1,Master's degree,Medical,Great,Male,Low,Excellent,10883,20,Excellent,Great,80,Excellent,1
+1210,33,Stayed,21,Bachelor's degree,Medical,Good,Male,Excellent,Good,2028,18,Great,Excellent,80,Great,14
+1211,37,Stayed,1,Master's degree,Medical,Great,Male,Low,Excellent,9525,14,Great,Great,80,Good,6
+1212,34,Stayed,19,Bachelor's degree,Life Sciences,Good,Female,Good,Excellent,2929,12,Great,Good,80,Great,10
+1213,23,Churned,7,Bachelor's degree,Life Sciences,Great,Male,Great,Excellent,2275,21,Excellent,Good,80,Great,3
+1214,44,Stayed,2,Bachelor's degree,Life Sciences,Great,Female,Excellent,Excellent,7879,19,Great,Good,80,Great,8
+1215,35,Stayed,2,Master's degree,Medical,Low,Male,Good,Excellent,4930,14,Great,Great,80,Excellent,5
+1216,43,Stayed,2,Bachelor's degree,Medical,Excellent,Male,Great,Excellent,7847,17,Great,Low,80,Great,10
+1217,24,Stayed,9,Bachelor's degree,Medical,Great,Male,Excellent,Great,4401,16,Great,Excellent,80,Great,5
+1218,41,Stayed,6,Bachelor's degree,Marketing,Excellent,Male,Great,Great,9241,12,Great,Good,80,Great,10
+1219,29,Stayed,9,Master's degree,Medical,Excellent,Female,Great,Great,2974,17,Great,Great,80,Great,5
+1220,36,Stayed,2,Master's degree,Life Sciences,Great,Female,Great,Excellent,4502,15,Great,Great,80,Good,13
+1221,45,Stayed,1,Below College,Life Sciences,Great,Male,Good,Great,10748,23,Excellent,Excellent,80,Good,23
+1222,24,Churned,22,Below College,Human Resources,Excellent,Male,Low,Great,1555,11,Great,Great,80,Great,1
+1223,47,Churned,9,Bachelor's degree,Life Sciences,Great,Male,Low,Great,12936,11,Great,Great,80,Low,23
+1224,26,Stayed,17,Master's degree,Medical,Excellent,Male,Low,Great,2305,15,Great,Great,80,Excellent,3
+1225,45,Stayed,28,College,Technical Degree,Excellent,Female,Good,Good,16704,11,Great,Great,80,Great,21
+1226,32,Stayed,10,Bachelor's degree,Life Sciences,Low,Male,Great,Great,3433,13,Great,Low,80,Good,5
+1227,31,Stayed,2,Master's degree,Life Sciences,Good,Male,Great,Great,3477,14,Great,Excellent,80,Excellent,5
+1228,41,Stayed,4,Bachelor's degree,Human Resources,Great,Male,Low,Good,6430,19,Great,Good,80,Great,3
+1229,40,Stayed,8,College,Life Sciences,Good,Female,Great,Low,6516,16,Great,Good,80,Great,1
+1230,24,Stayed,29,Below College,Medical,Good,Male,Great,Low,3907,13,Great,Good,80,Excellent,6
+1231,46,Stayed,13,Master's degree,Life Sciences,Great,Male,Great,Good,5562,14,Great,Excellent,80,Great,10
+1232,35,Stayed,27,Master's degree,Life Sciences,Excellent,Male,Great,Great,6883,16,Great,Good,80,Great,7
+1233,30,Stayed,16,Below College,Life Sciences,Good,Male,Great,Excellent,2862,12,Great,Good,80,Good,10
+1234,47,Stayed,2,Master's degree,Marketing,Great,Male,Great,Good,4978,11,Great,Excellent,80,Low,1
+1235,46,Stayed,2,Bachelor's degree,Life Sciences,Great,Male,Great,Excellent,10368,12,Great,Good,80,Good,10
+1236,36,Churned,13,PhD,Marketing,Good,Male,Good,Low,6134,13,Great,Good,80,Great,2
+1237,32,Churned,1,College,Life Sciences,Low,Male,Low,Good,6735,15,Great,Good,80,Great,0
+1238,23,Stayed,4,Below College,Medical,Great,Female,Great,Good,3295,13,Great,Great,80,Low,3
+1239,31,Stayed,24,Below College,Technical Degree,Excellent,Female,Great,Excellent,5238,20,Excellent,Excellent,80,Good,5
+1240,39,Stayed,1,Bachelor's degree,Life Sciences,Excellent,Male,Great,Excellent,6472,15,Great,Excellent,80,Great,9
+1241,32,Stayed,19,Bachelor's degree,Life Sciences,Excellent,Male,Low,Great,9610,13,Great,Great,80,Low,4
+1242,40,Stayed,7,Master's degree,Medical,Good,Male,Great,Good,19833,14,Great,Good,80,Good,21
+1243,45,Stayed,4,Bachelor's degree,Life Sciences,Great,Female,Low,Great,9756,21,Excellent,Great,80,Excellent,5
+1244,30,Stayed,2,Master's degree,Technical Degree,Excellent,Female,Good,Low,4968,16,Great,Excellent,80,Great,9
+1245,24,Stayed,10,Bachelor's degree,Medical,Low,Male,Great,Excellent,2145,14,Great,Excellent,80,Great,2
+1246,30,Churned,8,Bachelor's degree,Human Resources,Great,Female,Good,Excellent,2180,11,Great,Great,80,Good,4
+1247,31,Stayed,5,Bachelor's degree,Technical Degree,Low,Male,Great,Great,8346,19,Great,Great,80,Great,5
+1248,27,Stayed,8,Bachelor's degree,Medical,Great,Female,Great,Excellent,3445,11,Great,Great,80,Good,6
+1249,29,Churned,9,Bachelor's degree,Marketing,Good,Female,Low,Good,2760,13,Great,Great,80,Great,2
+1250,29,Stayed,1,Bachelor's degree,Life Sciences,Excellent,Male,Excellent,Great,6294,12,Great,Excellent,80,Excellent,3
+1251,30,Stayed,15,College,Marketing,Great,Male,Good,Low,7140,11,Great,Low,80,Great,7
+1252,34,Stayed,2,Master's degree,Medical,Excellent,Male,Excellent,Excellent,2932,14,Great,Low,80,Great,5
+1253,33,Stayed,2,Bachelor's degree,Marketing,Excellent,Female,Great,Good,5147,15,Great,Excellent,80,Good,11
+1254,49,Stayed,11,Master's degree,Marketing,Excellent,Female,Great,Excellent,4507,12,Great,Great,80,Excellent,5
+1255,33,Churned,16,Bachelor's degree,Life Sciences,Low,Female,Great,Low,8564,20,Excellent,Great,80,Good,0
+1256,38,Stayed,2,College,Medical,Great,Female,Good,Good,2468,14,Great,Good,80,Good,6
+1257,31,Churned,16,Master's degree,Marketing,Low,Male,Great,Great,8161,13,Great,Low,80,Great,1
+1258,29,Stayed,4,Bachelor's degree,Technical Degree,Excellent,Female,Good,Low,2109,13,Great,Great,80,Great,1
+1259,30,Stayed,16,Bachelor's degree,Life Sciences,Great,Male,Excellent,Great,5294,16,Great,Great,80,Great,7
+1260,32,Stayed,5,Master's degree,Technical Degree,Good,Male,Great,Good,2718,14,Great,Good,80,Great,7
+1261,38,Stayed,18,Bachelor's degree,Medical,Good,Male,Low,Excellent,5811,16,Great,Great,80,Great,1
+1262,43,Churned,17,Bachelor's degree,Technical Degree,Great,Male,Good,Great,2437,16,Great,Excellent,80,Great,1
+1263,42,Stayed,12,Bachelor's degree,Medical,Good,Male,Great,Good,2766,22,Excellent,Good,80,Good,5
+1264,55,Stayed,2,Bachelor's degree,Medical,Great,Male,Good,Low,19038,12,Great,Good,80,Great,1
+1265,33,Stayed,4,Bachelor's degree,Technical Degree,Excellent,Male,Great,Good,3055,15,Great,Excellent,80,Good,9
+1266,41,Stayed,9,Master's degree,Life Sciences,Great,Male,Great,Low,2289,20,Excellent,Good,80,Great,5
+1267,34,Stayed,10,Bachelor's degree,Life Sciences,Excellent,Male,Great,Great,4001,14,Great,Great,80,Great,15
+1268,53,Stayed,1,Master's degree,Medical,Low,Female,Good,Great,12965,20,Excellent,Excellent,80,Good,3
+1269,43,Stayed,2,Bachelor's degree,Life Sciences,Good,Male,Great,Excellent,3539,13,Great,Good,80,Great,9
+1270,34,Stayed,3,College,Life Sciences,Excellent,Female,Low,Excellent,6029,12,Great,Low,80,Great,2
+1271,21,Churned,7,Below College,Marketing,Good,Male,Great,Good,2679,13,Great,Good,80,Great,1
+1272,38,Stayed,6,College,Other,Excellent,Female,Good,Great,3702,11,Great,Good,80,Great,5
+1273,22,Churned,8,Below College,Medical,Great,Female,Great,Low,2398,17,Great,Great,80,Great,1
+1274,31,Stayed,29,Master's degree,Marketing,Low,Female,Good,Excellent,5468,14,Great,Low,80,Great,12
+1275,51,Stayed,3,Bachelor's degree,Technical Degree,Low,Female,Great,Great,13116,11,Great,Excellent,80,Great,2
+1276,37,Stayed,9,College,Marketing,Good,Male,Good,Good,4189,14,Great,Low,80,Great,5
+1277,46,Stayed,2,Master's degree,Medical,Great,Male,Great,Excellent,19328,17,Great,Great,80,Great,2
+1278,36,Stayed,10,Bachelor's degree,Life Sciences,Excellent,Male,Great,Low,8321,13,Great,Excellent,80,Great,12
+1279,44,Churned,1,College,Medical,Great,Male,Great,Good,2342,12,Great,Great,80,Good,5
+1280,37,Stayed,8,College,Other,Great,Male,Great,Good,4071,13,Great,Great,80,Good,10
+1281,35,Churned,27,Bachelor's degree,Life Sciences,Great,Male,Great,Excellent,5813,18,Great,Excellent,80,Great,10
+1282,33,Stayed,8,Master's degree,Life Sciences,Excellent,Male,Excellent,Low,3143,19,Great,Good,80,Great,10
+1283,28,Stayed,1,Bachelor's degree,Life Sciences,Great,Male,Great,Excellent,2044,11,Great,Great,80,Excellent,5
+1284,39,Stayed,10,Below College,Medical,Great,Male,Great,Great,13464,21,Excellent,Great,80,Great,4
+1285,46,Stayed,26,College,Life Sciences,Good,Male,Good,Good,7991,15,Great,Great,80,Great,2
+1286,40,Stayed,2,College,Life Sciences,Great,Female,Great,Low,3377,17,Great,Excellent,80,Good,4
+1287,42,Stayed,13,Bachelor's degree,Medical,Good,Male,Excellent,Low,5538,18,Great,Great,80,Good,0
+1288,35,Stayed,2,College,Medical,Good,Male,Great,Excellent,5762,14,Great,Great,80,Great,7
+1289,38,Stayed,2,Bachelor's degree,Human Resources,Low,Male,Great,Good,2592,13,Great,Excellent,80,Great,11
+1290,34,Churned,9,Master's degree,Life Sciences,Excellent,Male,Great,Low,5346,17,Great,Great,80,Good,7
+1291,37,Churned,10,Master's degree,Medical,Excellent,Male,Great,Low,4213,15,Great,Good,80,Low,10
+1292,39,Stayed,20,Bachelor's degree,Life Sciences,Great,Male,Great,Excellent,4127,18,Great,Excellent,80,Great,2
+1293,43,Stayed,9,Bachelor's degree,Life Sciences,Low,Male,Great,Great,2438,13,Great,Great,80,Good,3
+1294,41,Stayed,5,Bachelor's degree,Life Sciences,Good,Male,Excellent,Good,6870,12,Great,Low,80,Low,3
+1295,41,Stayed,4,Below College,Marketing,Great,Female,Great,Great,10447,13,Great,Excellent,80,Excellent,22
+1296,30,Stayed,10,Bachelor's degree,Medical,Low,Female,Great,Great,9667,14,Great,Good,80,Great,7
+1297,26,Churned,20,College,Medical,Excellent,Female,Great,Good,2148,11,Great,Great,80,Great,5
+1298,46,Churned,21,College,Medical,Excellent,Female,Great,Good,8926,22,Excellent,Excellent,80,Excellent,9
+1299,40,Stayed,1,Bachelor's degree,Life Sciences,Great,Female,Great,Excellent,6513,17,Great,Excellent,80,Great,5
+1300,34,Stayed,8,College,Technical Degree,Good,Male,Excellent,Great,6799,21,Excellent,Great,80,Great,10
+1301,58,Stayed,2,Bachelor's degree,Medical,Good,Male,Great,Good,16291,22,Excellent,Excellent,80,Good,16
+1302,35,Stayed,23,Master's degree,Medical,Good,Male,Low,Great,2705,16,Great,Good,80,Excellent,5
+1303,47,Stayed,4,Bachelor's degree,Life Sciences,Great,Female,Good,Good,10333,12,Great,Great,80,Great,22
+1304,40,Stayed,12,Bachelor's degree,Life Sciences,Good,Female,Great,Low,4448,12,Great,Good,80,Great,7
+1305,54,Stayed,7,Master's degree,Medical,Excellent,Female,Great,Excellent,6854,15,Great,Good,80,Good,7
+1306,31,Stayed,7,Master's degree,Marketing,Low,Female,Great,Low,9637,14,Great,Excellent,80,Great,3
+1307,28,Stayed,1,Bachelor's degree,Medical,Great,Female,Great,Low,3591,25,Excellent,Great,80,Great,3
+1308,38,Stayed,2,Master's degree,Marketing,Good,Female,Low,Excellent,5405,20,Excellent,Low,80,Good,4
+1309,26,Stayed,10,Bachelor's degree,Medical,Great,Male,Great,Excellent,4684,13,Great,Low,80,Great,5
+1310,58,Stayed,15,Master's degree,Life Sciences,Low,Male,Great,Great,15787,14,Great,Good,80,Great,2
+1311,18,Stayed,14,Bachelor's degree,Medical,Good,Female,Great,Great,1514,16,Great,Great,80,Low,0
+1312,31,Churned,18,PhD,Human Resources,Excellent,Male,Excellent,Low,2956,17,Great,Great,80,Great,1
+1313,29,Churned,13,Bachelor's degree,Human Resources,Low,Male,Good,Low,2335,15,Great,Excellent,80,Great,2
+1314,45,Stayed,2,Master's degree,Life Sciences,Great,Female,Great,Great,5154,22,Excellent,Good,80,Excellent,8
+1315,36,Stayed,2,Master's degree,Other,Excellent,Female,Great,Good,6962,22,Excellent,Excellent,80,Great,1
+1316,43,Stayed,2,Master's degree,Life Sciences,Low,Male,Great,Excellent,5675,20,Excellent,Great,80,Great,7
+1317,27,Stayed,5,College,Life Sciences,Excellent,Female,Great,Excellent,2379,14,Great,Great,80,Good,5
+1318,29,Stayed,20,Below College,Medical,Excellent,Male,Great,Excellent,3812,13,Great,Good,80,Excellent,11
+1319,32,Stayed,10,Master's degree,Marketing,Excellent,Male,Great,Excellent,4648,13,Great,Great,80,Excellent,0
+1320,42,Stayed,10,Master's degree,Technical Degree,Great,Male,Great,Great,2936,22,Excellent,Good,80,Good,6
+1321,47,Stayed,9,Master's degree,Life Sciences,Good,Female,Great,Great,2105,12,Great,Great,80,Great,2
+1322,46,Stayed,2,College,Life Sciences,Excellent,Male,Great,Excellent,8578,14,Great,Great,80,Good,9
+1323,28,Stayed,1,College,Life Sciences,Great,Male,Great,Excellent,2706,15,Great,Good,80,Great,3
+1324,29,Stayed,29,Below College,Life Sciences,Excellent,Male,Low,Great,6384,17,Great,Excellent,80,Great,7
+1325,42,Stayed,8,Bachelor's degree,Life Sciences,Excellent,Male,Great,Great,3968,13,Great,Excellent,80,Great,0
+1326,32,Churned,2,Master's degree,Marketing,Great,Male,Good,Good,9907,12,Great,Great,80,Good,2
+1327,46,Stayed,3,Bachelor's degree,Technical Degree,Low,Female,Excellent,Low,13225,12,Great,Excellent,80,Great,19
+1328,27,Stayed,23,Below College,Medical,Good,Female,Good,Great,3540,21,Excellent,Excellent,80,Great,9
+1329,29,Stayed,6,Below College,Medical,Excellent,Male,Good,Good,2804,11,Great,Excellent,80,Great,1
+1330,43,Stayed,6,Bachelor's degree,Medical,Low,Female,Good,Great,19392,13,Great,Excellent,80,Great,16
+1331,48,Stayed,10,Bachelor's degree,Life Sciences,Excellent,Male,Good,Good,19665,12,Great,Excellent,80,Great,22
+1332,29,Churned,24,College,Life Sciences,Excellent,Male,Good,Excellent,2439,24,Excellent,Good,80,Good,1
+1333,46,Churned,10,Bachelor's degree,Life Sciences,Great,Female,Great,Good,7314,21,Excellent,Great,80,Great,8
+1334,27,Stayed,15,Bachelor's degree,Life Sciences,Excellent,Female,Good,Low,4774,19,Great,Excellent,80,Good,7
+1335,39,Stayed,19,Master's degree,Other,Excellent,Male,Great,Excellent,3902,14,Great,Good,80,Great,2
+1336,55,Stayed,2,Master's degree,Technical Degree,Good,Male,Good,Excellent,2662,20,Excellent,Good,80,Excellent,5
+1337,28,Stayed,3,Bachelor's degree,Medical,Good,Female,Great,Good,2856,19,Great,Excellent,80,Great,1
+1338,30,Churned,9,Bachelor's degree,Medical,Good,Male,Great,Excellent,1081,13,Great,Great,80,Good,1
+1339,22,Churned,7,Below College,Life Sciences,Excellent,Male,Great,Good,2472,23,Excellent,Low,80,Great,1
+1340,36,Stayed,10,Master's degree,Technical Degree,Good,Female,Good,Great,5673,13,Great,Low,80,Great,10
+1341,31,Stayed,20,Bachelor's degree,Life Sciences,Good,Male,Great,Great,4197,11,Great,Low,80,Great,10
+1342,34,Stayed,4,Bachelor's degree,Life Sciences,Great,Male,Great,Excellent,9713,13,Great,Excellent,80,Great,5
+1343,29,Stayed,7,Bachelor's degree,Life Sciences,Excellent,Male,Great,Low,2062,14,Great,Good,80,Great,3
+1344,37,Stayed,7,Master's degree,Medical,Excellent,Male,Great,Low,4284,22,Excellent,Great,80,Great,5
+1345,35,Stayed,16,College,Other,Excellent,Female,Good,Good,4788,11,Great,Excellent,80,Great,3
+1346,45,Stayed,25,College,Life Sciences,Good,Female,Good,Excellent,5906,13,Great,Excellent,80,Good,9
+1347,36,Stayed,2,Below College,Human Resources,Good,Male,Good,Excellent,3886,21,Excellent,Excellent,80,Good,10
+1348,40,Stayed,1,Master's degree,Life Sciences,Low,Male,Great,Low,16823,11,Great,Low,80,Great,19
+1349,26,Stayed,1,College,Life Sciences,Good,Female,Good,Great,2933,13,Great,Great,80,Good,1
+1350,27,Stayed,2,College,Medical,Low,Female,Excellent,Great,6500,14,Great,Good,80,Good,8
+1351,48,Stayed,22,Bachelor's degree,Medical,Excellent,Female,Great,Excellent,17174,11,Great,Good,80,Great,22
+1352,44,Stayed,1,Master's degree,Life Sciences,Good,Male,Excellent,Low,5033,15,Great,Excellent,80,Great,2
+1353,34,Churned,16,Master's degree,Technical Degree,Excellent,Male,Low,Low,2307,23,Excellent,Good,80,Great,5
+1354,56,Churned,24,College,Life Sciences,Low,Male,Great,Excellent,2587,16,Great,Excellent,80,Great,4
+1355,36,Stayed,17,College,Marketing,Great,Male,Good,Good,5507,16,Great,Great,80,Low,4
+1356,41,Stayed,8,Bachelor's degree,Marketing,Great,Female,Great,Good,4393,21,Excellent,Great,80,Great,5
+1357,42,Stayed,6,Bachelor's degree,Medical,Great,Male,Great,Low,13348,13,Great,Good,80,Excellent,13
+1358,31,Stayed,10,College,Medical,Great,Female,Great,Excellent,6583,11,Great,Excellent,80,Great,5
+1359,34,Stayed,3,Below College,Medical,Excellent,Female,Good,Excellent,8103,12,Great,Great,80,Good,4
+1360,31,Stayed,4,Bachelor's degree,Medical,Low,Female,Excellent,Great,3978,12,Great,Good,80,Good,2
+1361,26,Stayed,6,Bachelor's degree,Other,Great,Male,Excellent,Excellent,2544,18,Great,Low,80,Great,7
+1362,45,Stayed,1,Master's degree,Medical,Good,Male,Great,Great,5399,12,Great,Great,80,Great,4
+1363,33,Stayed,10,Master's degree,Marketing,Good,Male,Great,Great,5487,14,Great,Good,80,Good,10
+1364,28,Stayed,1,College,Life Sciences,Great,Male,Good,Excellent,6834,12,Great,Great,80,Great,7
+1365,29,Churned,24,Bachelor's degree,Technical Degree,Great,Male,Excellent,Low,1091,17,Great,Excellent,80,Great,1
+1366,39,Stayed,21,Master's degree,Life Sciences,Low,Female,Low,Great,5736,19,Great,Great,80,Great,3
+1367,27,Stayed,2,Master's degree,Technical Degree,Good,Male,Great,Good,2226,11,Great,Great,80,Good,5
+1368,34,Stayed,22,Master's degree,Other,Great,Male,Good,Excellent,5747,15,Great,Good,80,Great,15
+1369,28,Churned,13,College,Marketing,Excellent,Female,Great,Great,9854,11,Great,Excellent,80,Great,2
+1370,47,Stayed,14,Master's degree,Technical Degree,Great,Male,Great,Good,5467,18,Great,Great,80,Excellent,8
+1371,56,Stayed,11,PhD,Marketing,Excellent,Female,Good,Low,5380,16,Great,Great,80,Great,0
+1372,39,Stayed,9,College,Medical,Low,Male,Great,Low,5151,25,Excellent,Excellent,80,Great,10
+1373,38,Stayed,8,Bachelor's degree,Medical,Excellent,Female,Good,Good,2133,16,Great,Great,80,Great,20
+1374,58,Stayed,21,Bachelor's degree,Life Sciences,Excellent,Female,Great,Excellent,17875,13,Great,Great,80,Good,1
+1375,32,Churned,5,College,Life Sciences,Low,Female,Excellent,Great,2432,14,Great,Low,80,Great,4
+1376,38,Stayed,9,College,Life Sciences,Good,Male,Great,Excellent,4771,19,Great,Excellent,80,Excellent,5
+1377,49,Stayed,2,Below College,Life Sciences,Good,Male,Great,Excellent,19161,15,Great,Excellent,80,Great,5
+1378,42,Stayed,12,Master's degree,Marketing,Good,Male,Great,Excellent,5087,12,Great,Great,80,Great,0
+1379,27,Churned,22,Bachelor's degree,Human Resources,Low,Female,Good,Good,2863,12,Great,Low,80,Great,1
+1380,35,Stayed,18,Master's degree,Medical,Good,Male,Great,Low,5561,16,Great,Excellent,80,Low,5
+1381,28,Stayed,16,Bachelor's degree,Medical,Great,Male,Great,Great,2144,14,Great,Great,80,Good,5
+1382,31,Stayed,3,College,Medical,Great,Male,Great,Low,3065,13,Great,Excellent,80,Excellent,4
+1383,36,Stayed,9,Master's degree,Life Sciences,Low,Male,Excellent,Good,2810,22,Excellent,Good,80,Great,5
+1384,34,Stayed,1,Bachelor's degree,Marketing,Low,Male,Great,Excellent,9888,21,Excellent,Low,80,Good,14
+1385,34,Stayed,13,Master's degree,Medical,Excellent,Male,Great,Great,8628,18,Great,Great,80,Good,8
+1386,26,Stayed,1,Bachelor's degree,Medical,Great,Male,Great,Low,2867,13,Great,Excellent,80,Good,7
+1387,29,Stayed,1,Bachelor's degree,Life Sciences,Low,Male,Great,Low,5373,12,Great,Low,80,Good,5
+1388,32,Stayed,15,Master's degree,Medical,Great,Female,Great,Excellent,6667,18,Great,Good,80,Great,5
+1389,31,Stayed,1,Bachelor's degree,Life Sciences,Excellent,Male,Low,Low,5003,21,Excellent,Good,80,Great,10
+1390,28,Churned,17,Bachelor's degree,Technical Degree,Great,Male,Good,Excellent,2367,12,Great,Low,80,Good,4
+1391,38,Stayed,1,Bachelor's degree,Life Sciences,Low,Male,Good,Low,2858,14,Great,Low,80,Good,1
+1392,35,Stayed,7,Master's degree,Life Sciences,Great,Female,Great,Excellent,5204,11,Great,Excellent,80,Great,10
+1393,27,Stayed,9,Bachelor's degree,Marketing,Excellent,Male,Great,Excellent,4105,14,Great,Low,80,Great,7
+1394,32,Stayed,5,Master's degree,Life Sciences,Excellent,Male,Good,Excellent,9679,24,Excellent,Good,80,Great,1
+1395,31,Churned,26,Master's degree,Marketing,Low,Male,Great,Excellent,5617,11,Great,Great,80,Great,10
+1396,53,Churned,24,Master's degree,Life Sciences,Low,Male,Great,Low,10448,13,Great,Good,80,Good,2
+1397,54,Stayed,9,College,Life Sciences,Low,Female,Great,Great,2897,11,Great,Great,80,Good,4
+1398,33,Stayed,7,College,Life Sciences,Excellent,Male,Great,Great,5968,20,Excellent,Great,80,Great,9
+1399,43,Stayed,11,Bachelor's degree,Life Sciences,Low,Male,Great,Great,7510,17,Great,Good,80,Great,10
+1400,38,Stayed,1,Master's degree,Other,Excellent,Male,Great,Good,2991,11,Great,Good,80,Great,6
+1401,55,Stayed,26,Master's degree,Human Resources,Great,Male,Excellent,Good,19636,18,Great,Low,80,Great,10
+1402,31,Stayed,2,Below College,Medical,Excellent,Female,Low,Excellent,1129,11,Great,Great,80,Great,1
+1403,39,Stayed,15,Master's degree,Marketing,Good,Male,Great,Low,13341,12,Great,Low,80,Great,20
+1404,42,Stayed,23,College,Life Sciences,Excellent,Male,Good,Great,4332,12,Great,Excellent,80,Great,20
+1405,31,Stayed,10,Bachelor's degree,Medical,Great,Female,Great,Great,11031,20,Excellent,Great,80,Excellent,11
+1406,54,Stayed,10,Bachelor's degree,Medical,Great,Female,Great,Low,4440,19,Great,Excellent,80,Great,5
+1407,24,Stayed,1,College,Life Sciences,Good,Male,Good,Great,4617,12,Great,Good,80,Good,4
+1408,23,Stayed,12,College,Other,Excellent,Male,Great,Excellent,2647,13,Great,Great,80,Excellent,5
+1409,40,Stayed,11,Bachelor's degree,Technical Degree,Excellent,Female,Great,Great,6323,11,Great,Low,80,Excellent,10
+1410,40,Stayed,2,College,Marketing,Good,Female,Great,Good,5677,14,Great,Great,80,Great,11
+1411,25,Stayed,2,Bachelor's degree,Human Resources,Great,Female,Great,Good,2187,14,Great,Great,80,Great,2
+1412,30,Stayed,1,College,Medical,Excellent,Male,Great,Good,3748,13,Great,Great,80,Good,12
+1413,25,Stayed,2,Below College,Other,Excellent,Male,Great,Great,3977,19,Great,Great,80,Good,2
+1414,47,Stayed,25,Bachelor's degree,Medical,Low,Male,Great,Great,8633,23,Excellent,Good,80,Great,17
+1415,33,Stayed,1,College,Medical,Good,Male,Good,Great,2008,12,Great,Great,80,Good,1
+1416,38,Stayed,1,Master's degree,Life Sciences,Excellent,Male,Great,Good,4440,15,Great,Low,80,Great,15
+1417,31,Stayed,2,College,Life Sciences,Low,Male,Great,Great,3067,19,Great,Great,80,Great,2
+1418,38,Stayed,6,Master's degree,Life Sciences,Low,Male,Good,Great,5321,11,Great,Excellent,80,Great,8
+1419,42,Stayed,18,Master's degree,Life Sciences,Excellent,Male,Great,Low,5410,17,Great,Great,80,Good,4
+1420,41,Stayed,1,Bachelor's degree,Life Sciences,Excellent,Male,Great,Excellent,2782,22,Excellent,Low,80,Great,5
+1421,47,Stayed,1,Below College,Medical,Great,Female,Great,Good,11957,18,Great,Low,80,Low,13
+1422,35,Stayed,11,Master's degree,Medical,Excellent,Male,Great,Great,2660,11,Great,Great,80,Great,2
+1423,22,Stayed,1,College,Life Sciences,Excellent,Male,Great,Great,3375,12,Great,Excellent,80,Excellent,3
+1424,35,Stayed,9,Master's degree,Medical,Good,Male,Great,Great,5098,19,Great,Good,80,Great,10
+1425,33,Stayed,15,College,Medical,Good,Female,Great,Excellent,4878,13,Great,Low,80,Great,9
+1426,32,Stayed,29,Master's degree,Life Sciences,Great,Female,Good,Good,2837,13,Great,Great,80,Great,6
+1427,40,Stayed,1,Master's degree,Life Sciences,Low,Male,Great,Excellent,2406,19,Great,Great,80,Good,1
+1428,32,Stayed,1,Master's degree,Medical,Good,Male,Good,Good,2269,14,Great,Good,80,Great,2
+1429,39,Stayed,24,Below College,Life Sciences,Low,Male,Great,Excellent,4108,13,Great,Low,80,Great,7
+1430,38,Stayed,10,Bachelor's degree,Medical,Good,Female,Low,Great,13206,12,Great,Low,80,Great,18
+1431,32,Stayed,1,Master's degree,Marketing,Great,Female,Great,Excellent,10422,19,Great,Great,80,Great,14
+1432,37,Stayed,10,Bachelor's degree,Life Sciences,Great,Female,Excellent,Excellent,13744,25,Excellent,Low,80,Great,16
+1433,25,Stayed,8,College,Other,Low,Female,Great,Great,4907,22,Excellent,Good,80,Good,5
+1434,52,Stayed,29,Master's degree,Life Sciences,Low,Male,Great,Excellent,3482,15,Great,Good,80,Good,9
+1435,44,Stayed,1,Bachelor's degree,Medical,Good,Male,Great,Excellent,2436,12,Great,Great,80,Great,4
+1436,21,Stayed,5,Below College,Medical,Great,Male,Great,Low,2380,11,Great,Excellent,80,Great,2
+1437,39,Stayed,9,Bachelor's degree,Life Sciences,Excellent,Male,Great,Excellent,19431,13,Great,Great,80,Good,6
+1438,23,Churned,9,Bachelor's degree,Marketing,Excellent,Male,Great,Low,1790,19,Great,Low,80,Good,1
+1439,36,Stayed,3,Bachelor's degree,Medical,Low,Female,Good,Excellent,7644,19,Great,Great,80,Great,9
+1440,36,Stayed,4,College,Life Sciences,Excellent,Female,Great,Good,5131,13,Great,Good,80,Great,4
+1441,56,Stayed,1,Master's degree,Life Sciences,Great,Male,Great,Great,6306,21,Excellent,Low,80,Good,13
+1442,29,Churned,1,Master's degree,Medical,Low,Male,Great,Excellent,4787,14,Great,Good,80,Excellent,2
+1443,42,Stayed,2,Bachelor's degree,Life Sciences,Low,Male,Great,Great,18880,11,Great,Low,80,Good,22
+1444,56,Churned,7,College,Technical Degree,Excellent,Male,Great,Great,2339,11,Great,Excellent,80,Low,10
+1445,41,Stayed,28,Master's degree,Life Sciences,Low,Female,Good,Good,13570,23,Excellent,Great,80,Great,20
+1446,34,Stayed,28,Bachelor's degree,Marketing,Excellent,Female,Good,Great,6712,21,Excellent,Excellent,80,Great,8
+1447,36,Stayed,15,Master's degree,Marketing,Excellent,Male,Low,Excellent,5406,24,Excellent,Low,80,Good,15
+1448,41,Stayed,3,Bachelor's degree,Life Sciences,Great,Male,Good,Good,8938,11,Great,Great,80,Great,5
+1449,32,Stayed,2,Bachelor's degree,Technical Degree,Excellent,Male,Great,Low,2439,14,Great,Excellent,80,Great,4
+1450,35,Stayed,26,Master's degree,Life Sciences,Great,Female,Great,Excellent,8837,16,Great,Great,80,Great,9
+1451,38,Stayed,10,College,Life Sciences,Low,Female,Great,Excellent,5343,11,Great,Great,80,Great,10
+1452,50,Churned,1,Master's degree,Life Sciences,Good,Male,Great,Great,6728,12,Great,Excellent,80,Great,6
+1453,36,Stayed,11,Master's degree,Marketing,Good,Female,Good,Excellent,6652,13,Great,Low,80,Good,6
+1454,45,Stayed,20,Bachelor's degree,Life Sciences,Excellent,Female,Great,Great,4850,15,Great,Great,80,Great,5
+1455,40,Stayed,2,Master's degree,Life Sciences,Great,Male,Good,Great,2809,14,Great,Excellent,80,Great,2
+1456,35,Stayed,18,Master's degree,Life Sciences,Great,Male,Great,Great,5689,14,Great,Excellent,80,Excellent,10
+1457,40,Stayed,2,Master's degree,Medical,Great,Female,Great,Great,2001,14,Great,Good,80,Great,5
+1458,35,Stayed,1,Master's degree,Life Sciences,Great,Female,Low,Excellent,2977,12,Great,Excellent,80,Great,4
+1459,29,Stayed,13,College,Other,Excellent,Male,Good,Good,4025,13,Great,Low,80,Great,4
+1460,29,Stayed,28,Master's degree,Medical,Excellent,Female,Good,Low,3785,14,Great,Good,80,Low,5
+1461,50,Churned,28,Bachelor's degree,Marketing,Excellent,Male,Good,Low,10854,13,Great,Good,80,Great,3
+1462,39,Stayed,24,Below College,Marketing,Good,Female,Good,Excellent,12031,11,Great,Low,80,Good,20
+1463,31,Stayed,5,Bachelor's degree,Medical,Good,Male,Great,Low,9936,19,Great,Good,80,Great,9
+1464,26,Stayed,5,Bachelor's degree,Other,Excellent,Female,Good,Great,2966,18,Great,Excellent,80,Great,4
+1465,36,Stayed,23,College,Medical,Great,Male,Excellent,Excellent,2571,17,Great,Great,80,Great,5
+1466,39,Stayed,6,Below College,Medical,Excellent,Male,Good,Low,9991,15,Great,Low,80,Great,7
+1467,27,Stayed,4,Bachelor's degree,Life Sciences,Good,Male,Excellent,Good,6142,20,Excellent,Good,80,Great,6
+1468,49,Stayed,2,Bachelor's degree,Medical,Excellent,Male,Good,Good,5390,14,Great,Excellent,80,Good,9
+1469,34,Stayed,8,Bachelor's degree,Medical,Good,Male,Excellent,Great,4404,12,Great,Low,80,Excellent,4
